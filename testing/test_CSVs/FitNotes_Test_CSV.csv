@@ -1,0 +1,2067 @@
+Date,Exercise,Category,Weight (lbs),Reps,Distance,Distance Unit,Time,Volume (lbs)
+2020-07-11,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2020-07-11,Flat Barbell Bench Press,Chest,65.0,8.0,,,,520.0
+2020-07-11,Flat Barbell Bench Press,Chest,95.0,6.0,,,,570.0
+2020-07-11,Flat Barbell Bench Press,Chest,105.0,6.0,,,,630.0
+2020-07-11,Flat Barbell Bench Press,Chest,105.0,6.0,,,,630.0
+2020-07-11,Flat Barbell Bench Press,Chest,105.0,6.0,,,,630.0
+2020-07-11,Flat Barbell Bench Press,Chest,105.0,6.0,,,,630.0
+2020-07-11,Flat Barbell Bench Press,Chest,105.0,10.0,,,,1050.0
+2020-07-11,Arnold Dumbbell Press,Shoulders,10.0,15.0,,,,150.0
+2020-07-11,Arnold Dumbbell Press,Shoulders,15.0,12.0,,,,180.0
+2020-07-11,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2020-07-11,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2020-07-11,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2020-07-11,Incline Dumbbell Bench Press,Chest,20.0,10.0,,,,200.0
+2020-07-11,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2020-07-11,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2020-07-11,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2020-07-11,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2020-07-11,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2020-07-12,Barbell Squat,Legs,0.0,15.0,,,,0.0
+2020-07-12,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-07-12,Barbell Squat,Legs,65.0,8.0,,,,520.0
+2020-07-12,Barbell Squat,Legs,85.0,6.0,,,,510.0
+2020-07-12,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2020-07-12,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2020-07-12,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2020-07-12,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2020-07-12,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2020-07-12,Romanian Deadlift,Legs,45.0,12.0,,,,540.0
+2020-07-12,Romanian Deadlift,Legs,55.0,12.0,,,,660.0
+2020-07-12,Romanian Deadlift,Legs,65.0,12.0,,,,780.0
+2020-07-12,Romanian Deadlift,Legs,65.0,12.0,,,,780.0
+2020-07-12,Romanian Deadlift,Legs,65.0,12.0,,,,780.0
+2020-07-12,Barbell Front Squat,Legs,45.0,10.0,,,,450.0
+2020-07-12,Barbell Front Squat,Legs,45.0,10.0,,,,450.0
+2020-07-12,Barbell Front Squat,Legs,45.0,10.0,,,,450.0
+2020-07-12,Lying Leg Curl,Legs,30.0,15.0,,,,450.0
+2020-07-12,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2020-07-12,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2020-07-13,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2020-07-13,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2020-07-13,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2020-07-13,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2020-07-13,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2020-07-13,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2020-07-13,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2020-07-13,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2020-07-13,Flat Barbell Bench Press,Chest,45.0,15.0,,,,675.0
+2020-07-13,Flat Barbell Bench Press,Chest,55.0,12.0,,,,660.0
+2020-07-13,Flat Barbell Bench Press,Chest,65.0,12.0,,,,780.0
+2020-07-13,Flat Barbell Bench Press,Chest,75.0,10.0,,,,750.0
+2020-07-13,Flat Barbell Bench Press,Chest,75.0,10.0,,,,750.0
+2020-07-13,Flat Barbell Bench Press,Chest,75.0,10.0,,,,750.0
+2020-07-13,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2020-07-13,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2020-07-13,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2020-07-13,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2020-07-13,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2020-07-13,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2020-07-14,Deadlift,Back,45.0,10.0,,,,450.0
+2020-07-14,Deadlift,Back,95.0,8.0,,,,760.0
+2020-07-14,Deadlift,Back,115.0,6.0,,,,690.0
+2020-07-14,Deadlift,Back,135.0,5.0,,,,675.0
+2020-07-14,Deadlift,Back,155.0,5.0,,,,775.0
+2020-07-14,Deadlift,Back,175.0,5.0,,,,875.0
+2020-07-14,Deadlift,Back,195.0,5.0,,,,975.0
+2020-07-14,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2020-07-14,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2020-07-14,Lat Pulldown (Pulley),Back,180.0,8.0,,,,1440.0
+2020-07-14,Lat Pulldown (Pulley),Back,180.0,8.0,,,,1440.0
+2020-07-14,Lat Pulldown (Pulley),Back,180.0,8.0,,,,1440.0
+2020-07-14,Seated Cable Row (Pulley),Back,180.0,8.0,,,,1440.0
+2020-07-14,Seated Cable Row (Pulley),Back,180.0,8.0,,,,1440.0
+2020-07-14,Seated Cable Row (Pulley),Back,180.0,8.0,,,,1440.0
+2020-07-14,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2020-07-14,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2020-07-14,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2020-07-14,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2020-07-14,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2020-07-22,Bent Over Barbell Row,Back,45.0,15.0,,,,675.0
+2020-07-22,Bent Over Barbell Row,Back,75.0,10.0,,,,750.0
+2020-07-22,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2020-07-22,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2020-07-22,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2020-07-22,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2020-07-22,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2020-07-22,Bent Over Barbell Row,Back,115.0,7.0,,,,805.0
+2020-07-22,Lat Pulldown (Pulley),Back,90.0,15.0,,,,1350.0
+2020-07-22,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2020-07-22,Lat Pulldown (Pulley),Back,180.0,10.0,,,,1800.0
+2020-07-22,Lat Pulldown (Pulley),Back,180.0,8.0,,,,1440.0
+2020-07-22,Lat Pulldown (Pulley),Back,180.0,5.0,,,,900.0
+2020-07-22,Seated Cable Row (Pulley),Back,160.0,10.0,,,,1600.0
+2020-07-22,Seated Cable Row (Pulley),Back,160.0,10.0,,,,1600.0
+2020-07-22,Seated Cable Row (Pulley),Back,160.0,10.0,,,,1600.0
+2020-07-22,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2020-07-22,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2020-07-22,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2020-07-30,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2020-07-30,Flat Barbell Bench Press,Chest,65.0,10.0,,,,650.0
+2020-07-30,Flat Barbell Bench Press,Chest,85.0,8.0,,,,680.0
+2020-07-30,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2020-07-30,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2020-07-30,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2020-07-30,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2020-07-30,Flat Barbell Bench Press,Chest,105.0,10.0,,,,1050.0
+2020-07-30,Arnold Dumbbell Press,Shoulders,10.0,15.0,,,,150.0
+2020-07-30,Arnold Dumbbell Press,Shoulders,15.0,15.0,,,,225.0
+2020-07-30,Arnold Dumbbell Press,Shoulders,20.0,12.0,,,,240.0
+2020-07-30,Arnold Dumbbell Press,Shoulders,20.0,12.0,,,,240.0
+2020-07-30,Arnold Dumbbell Press,Shoulders,20.0,12.0,,,,240.0
+2020-07-30,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2020-07-30,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2020-07-30,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2020-07-30,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-07-30,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-07-30,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-07-30,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-07-30,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-07-30,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-07-30,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-07-30,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-03,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2020-08-03,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2020-08-03,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2020-08-03,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2020-08-03,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2020-08-03,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2020-08-03,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2020-08-03,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2020-08-03,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2020-08-03,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2020-08-03,Bent Over Barbell Row,Back,65.0,5.0,,,,325.0
+2020-08-03,Bent Over Barbell Row,Back,65.0,5.0,,,,325.0
+2020-08-03,Bent Over Barbell Row,Back,65.0,5.0,,,,325.0
+2020-08-03,Bent Over Barbell Row,Back,65.0,5.0,,,,325.0
+2020-08-03,Bent Over Barbell Row,Back,65.0,5.0,,,,325.0
+2020-08-03,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-03,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-03,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-03,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-03,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-07,Barbell Squat,Legs,50.0,5.0,,,,250.0
+2020-08-07,Barbell Squat,Legs,50.0,5.0,,,,250.0
+2020-08-07,Barbell Squat,Legs,50.0,5.0,,,,250.0
+2020-08-07,Barbell Squat,Legs,50.0,5.0,,,,250.0
+2020-08-07,Barbell Squat,Legs,50.0,5.0,,,,250.0
+2020-08-07,Overhead Press,Shoulders,45.0,5.0,,,,225.0
+2020-08-07,Overhead Press,Shoulders,45.0,5.0,,,,225.0
+2020-08-07,Overhead Press,Shoulders,45.0,5.0,,,,225.0
+2020-08-07,Overhead Press,Shoulders,45.0,5.0,,,,225.0
+2020-08-07,Overhead Press,Shoulders,45.0,5.0,,,,225.0
+2020-08-07,Deadlift,Back,45.0,5.0,,,,225.0
+2020-08-07,Deadlift,Back,65.0,5.0,,,,325.0
+2020-08-07,Deadlift,Back,95.0,5.0,,,,475.0
+2020-08-07,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-07,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-07,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-07,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-07,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-08-10,Barbell Squat,Legs,55.0,5.0,,,,275.0
+2020-08-10,Barbell Squat,Legs,55.0,5.0,,,,275.0
+2020-08-10,Barbell Squat,Legs,55.0,5.0,,,,275.0
+2020-08-10,Barbell Squat,Legs,55.0,5.0,,,,275.0
+2020-08-10,Barbell Squat,Legs,55.0,5.0,,,,275.0
+2020-08-10,Flat Barbell Bench Press,Chest,50.0,5.0,,,,250.0
+2020-08-10,Flat Barbell Bench Press,Chest,50.0,5.0,,,,250.0
+2020-08-10,Flat Barbell Bench Press,Chest,50.0,5.0,,,,250.0
+2020-08-10,Flat Barbell Bench Press,Chest,50.0,5.0,,,,250.0
+2020-08-10,Flat Barbell Bench Press,Chest,50.0,5.0,,,,250.0
+2020-08-10,Bent Over Barbell Row,Back,70.0,5.0,,,,350.0
+2020-08-10,Bent Over Barbell Row,Back,70.0,5.0,,,,350.0
+2020-08-10,Bent Over Barbell Row,Back,70.0,5.0,,,,350.0
+2020-08-10,Bent Over Barbell Row,Back,70.0,5.0,,,,350.0
+2020-08-10,Bent Over Barbell Row,Back,70.0,5.0,,,,350.0
+2020-08-20,Incline Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-08-20,Incline Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2020-08-20,Incline Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2020-08-20,Incline Barbell Bench Press,Chest,115.0,3.0,,,,345.0
+2020-08-20,Incline Barbell Bench Press,Chest,125.0,3.0,,,,375.0
+2020-08-20,Incline Barbell Bench Press,Chest,125.0,4.0,,,,500.0
+2020-08-20,Incline Barbell Bench Press,Chest,125.0,3.0,,,,375.0
+2020-08-20,Incline Barbell Bench Press,Chest,125.0,3.0,,,,375.0
+2020-08-20,Incline Barbell Bench Press,Chest,125.0,3.0,,,,375.0
+2020-08-31,Deadlift,Back,45.0,5.0,,,,225.0
+2020-08-31,Deadlift,Back,95.0,5.0,,,,475.0
+2020-08-31,Deadlift,Back,115.0,5.0,,,,575.0
+2020-08-31,Deadlift,Back,135.0,5.0,,,,675.0
+2020-08-31,Deadlift,Back,155.0,5.0,,,,775.0
+2020-08-31,Deadlift,Back,175.0,5.0,,,,875.0
+2020-08-31,Deadlift,Back,195.0,5.0,,,,975.0
+2020-09-02,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-09-02,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2020-09-02,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2020-09-02,Flat Barbell Bench Press,Chest,135.0,3.0,,,,405.0
+2020-09-04,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-09-04,Barbell Squat,Legs,75.0,6.0,,,,450.0
+2020-09-04,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2020-09-04,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2020-09-04,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2020-09-04,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2020-09-04,Barbell Squat,Legs,145.0,3.0,,,,435.0
+2020-09-04,Barbell Squat,Legs,155.0,4.0,,,,620.0
+2020-09-04,Barbell Squat,Legs,165.0,3.0,,,,495.0
+2020-09-04,Barbell Squat,Legs,175.0,3.0,,,,525.0
+2020-09-09,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-09-09,Flat Barbell Bench Press,Chest,95.0,8.0,,,,760.0
+2020-09-09,Flat Barbell Bench Press,Chest,115.0,6.0,,,,690.0
+2020-09-09,Flat Barbell Bench Press,Chest,135.0,3.0,,,,405.0
+2020-09-09,Flat Barbell Bench Press,Chest,145.0,3.0,,,,435.0
+2020-09-09,Flat Barbell Bench Press,Chest,155.0,1.0,,,,155.0
+2020-09-09,Flat Barbell Bench Press,Chest,145.0,3.0,,,,435.0
+2020-09-09,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-09,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2020-09-09,Overhead Press,Shoulders,65.0,10.0,,,,650.0
+2020-09-09,Overhead Press,Shoulders,70.0,10.0,,,,700.0
+2020-09-09,Overhead Press,Shoulders,75.0,9.0,,,,675.0
+2020-09-09,Overhead Press,Shoulders,80.0,5.0,,,,400.0
+2020-09-09,Rope Push Down,Triceps,50.0,15.0,,,,750.0
+2020-09-09,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2020-09-09,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2020-09-11,Bent Over Barbell Row,Back,45.0,12.0,,,,540.0
+2020-09-11,Bent Over Barbell Row,Back,75.0,10.0,,,,750.0
+2020-09-11,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2020-09-11,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2020-09-11,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2020-09-11,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2020-09-11,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2020-09-11,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2020-09-11,Bent Over Barbell Row,Back,125.0,4.0,,,,500.0
+2020-09-11,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2020-09-11,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2020-09-11,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2020-09-11,Lat Pulldown (Pulley),Back,160.0,10.0,,,,1600.0
+2020-09-11,Lat Pulldown (Pulley),Back,160.0,8.0,,,,1280.0
+2020-09-11,Seated Cable Row (Pulley),Back,120.0,10.0,,,,1200.0
+2020-09-11,Seated Cable Row (Pulley),Back,120.0,10.0,,,,1200.0
+2020-09-11,Seated Cable Row (Pulley),Back,120.0,10.0,,,,1200.0
+2020-09-11,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2020-09-11,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2020-09-11,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2020-09-11,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2020-09-11,Face Pull (Pulley),Back,30.0,12.0,,,,360.0
+2020-09-11,Dumbbell Hammer Curl,Biceps,10.0,8.0,,,,80.0
+2020-09-11,Dumbbell Hammer Curl,Biceps,10.0,8.0,,,,80.0
+2020-09-11,Dumbbell Hammer Curl,Biceps,10.0,8.0,,,,80.0
+2020-09-11,Dumbbell Hammer Curl,Biceps,10.0,8.0,,,,80.0
+2020-09-11,Dumbbell Curl,Biceps,10.0,8.0,,,,80.0
+2020-09-11,Dumbbell Curl,Biceps,10.0,8.0,,,,80.0
+2020-09-11,Dumbbell Curl,Biceps,10.0,8.0,,,,80.0
+2020-09-11,Dumbbell Curl,Biceps,10.0,8.0,,,,80.0
+2020-09-13,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-09-13,Barbell Squat,Legs,75.0,8.0,,,,600.0
+2020-09-13,Barbell Squat,Legs,95.0,6.0,,,,570.0
+2020-09-13,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2020-09-13,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2020-09-13,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2020-09-13,Barbell Squat,Legs,135.0,7.0,,,,945.0
+2020-09-13,Romanian Deadlift,Legs,45.0,12.0,,,,540.0
+2020-09-13,Romanian Deadlift,Legs,55.0,12.0,,,,660.0
+2020-09-13,Romanian Deadlift,Legs,65.0,10.0,,,,650.0
+2020-09-13,Romanian Deadlift,Legs,65.0,10.0,,,,650.0
+2020-09-13,Romanian Deadlift,Legs,65.0,12.0,,,,780.0
+2020-09-13,Barbell Front Squat,Legs,45.0,12.0,,,,540.0
+2020-09-13,Barbell Front Squat,Legs,45.0,10.0,,,,450.0
+2020-09-13,Barbell Front Squat,Legs,45.0,10.0,,,,450.0
+2020-09-13,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2020-09-13,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2020-09-13,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2020-09-15,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-09-15,Flat Barbell Bench Press,Chest,75.0,8.0,,,,600.0
+2020-09-15,Flat Barbell Bench Press,Chest,95.0,6.0,,,,570.0
+2020-09-15,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-15,Flat Barbell Bench Press,Chest,135.0,4.0,,,,540.0
+2020-09-15,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-15,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-15,Flat Barbell Bench Press,Chest,135.0,4.0,,,,540.0
+2020-09-15,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2020-09-15,Overhead Press,Shoulders,65.0,10.0,,,,650.0
+2020-09-15,Overhead Press,Shoulders,75.0,8.0,,,,600.0
+2020-09-15,Overhead Press,Shoulders,75.0,7.0,,,,525.0
+2020-09-15,Incline Barbell Bench Press,Chest,85.0,8.0,,,,680.0
+2020-09-15,Incline Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2020-09-15,Incline Barbell Bench Press,Chest,75.0,6.0,,,,450.0
+2020-09-15,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2020-09-15,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-09-15,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2020-09-15,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2020-09-15,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2020-09-15,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2020-09-15,Dumbbell Overhead Triceps Extension,Triceps,20.0,10.0,,,,200.0
+2020-09-15,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2020-09-15,Dumbbell Overhead Triceps Extension,Triceps,20.0,12.0,,,,240.0
+2020-09-15,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2020-09-15,Dumbbell Overhead Triceps Extension,Triceps,20.0,12.0,,,,240.0
+2020-09-15,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-09-16,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-09-16,Barbell Squat,Legs,95.0,8.0,,,,760.0
+2020-09-16,Barbell Squat,Legs,115.0,6.0,,,,690.0
+2020-09-16,Barbell Squat,Legs,135.0,3.0,,,,405.0
+2020-09-16,Barbell Squat,Legs,155.0,5.0,,,,775.0
+2020-09-16,Barbell Squat,Legs,155.0,5.0,,,,775.0
+2020-09-16,Barbell Squat,Legs,155.0,10.0,,,,1550.0
+2020-09-16,Romanian Deadlift,Legs,45.0,12.0,,,,540.0
+2020-09-16,Romanian Deadlift,Legs,75.0,12.0,,,,900.0
+2020-09-16,Romanian Deadlift,Legs,75.0,12.0,,,,900.0
+2020-09-16,Romanian Deadlift,Legs,75.0,12.0,,,,900.0
+2020-09-16,Hip Thrust,Legs,45.0,12.0,,,,540.0
+2020-09-16,Hip Thrust,Legs,65.0,12.0,,,,780.0
+2020-09-16,Hip Thrust,Legs,65.0,12.0,,,,780.0
+2020-09-16,Barbell Front Squat,Legs,45.0,12.0,,,,540.0
+2020-09-16,Barbell Front Squat,Legs,45.0,12.0,,,,540.0
+2020-09-16,Barbell Front Squat,Legs,45.0,12.0,,,,540.0
+2020-09-16,Lying Leg Curl,Legs,40.0,12.0,,,,480.0
+2020-09-16,Lying Leg Curl,Legs,40.0,12.0,,,,480.0
+2020-09-16,Lying Leg Curl,Legs,40.0,15.0,,,,600.0
+2020-09-17,Bent Over Barbell Row,Back,45.0,12.0,,,,540.0
+2020-09-17,Bent Over Barbell Row,Back,75.0,8.0,,,,600.0
+2020-09-17,Bent Over Barbell Row,Back,95.0,6.0,,,,570.0
+2020-09-17,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2020-09-17,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2020-09-17,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2020-09-17,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2020-09-17,Bent Over Barbell Row,Back,125.0,7.0,,,,875.0
+2020-09-17,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2020-09-17,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2020-09-17,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2020-09-17,Seated Cable Row (Pulley),Back,120.0,12.0,,,,1440.0
+2020-09-17,Seated Cable Row (Pulley),Back,120.0,12.0,,,,1440.0
+2020-09-17,Seated Cable Row (Pulley),Back,120.0,12.0,,,,1440.0
+2020-09-17,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2020-09-17,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2020-09-17,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2020-09-17,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2020-09-17,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2020-09-17,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2020-09-17,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2020-09-17,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2020-09-17,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2020-09-17,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2020-09-17,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2020-09-17,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2020-09-17,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2020-09-18,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2020-09-18,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2020-09-18,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2020-09-18,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2020-09-18,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2020-09-18,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2020-09-18,Overhead Press,Shoulders,85.0,8.0,,,,680.0
+2020-09-18,Flat Barbell Bench Press,Chest,45.0,15.0,,,,675.0
+2020-09-18,Flat Barbell Bench Press,Chest,75.0,12.0,,,,900.0
+2020-09-18,Flat Barbell Bench Press,Chest,95.0,8.0,,,,760.0
+2020-09-18,Flat Barbell Bench Press,Chest,105.0,12.0,,,,1260.0
+2020-09-18,Flat Barbell Bench Press,Chest,105.0,11.0,,,,1155.0
+2020-09-18,Flat Barbell Bench Press,Chest,105.0,8.0,,,,840.0
+2020-09-18,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2020-09-18,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2020-09-18,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2020-09-18,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2020-09-18,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-09-18,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2020-09-18,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-09-18,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2020-09-18,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-09-18,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2020-09-18,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-09-18,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2020-09-18,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-09-18,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2020-09-18,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2020-09-19,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-09-19,Barbell Squat,Legs,95.0,8.0,,,,760.0
+2020-09-19,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2020-09-19,Barbell Squat,Legs,155.0,3.0,,,,465.0
+2020-09-19,Barbell Squat,Legs,175.0,5.0,,,,875.0
+2020-09-19,Barbell Squat,Legs,175.0,5.0,,,,875.0
+2020-09-19,Barbell Squat,Legs,175.0,8.0,,,,1400.0
+2020-09-19,Hip Thrust,Legs,85.0,12.0,,,,1020.0
+2020-09-19,Hip Thrust,Legs,85.0,12.0,,,,1020.0
+2020-09-19,Hip Thrust,Legs,85.0,12.0,,,,1020.0
+2020-09-19,Romanian Deadlift,Legs,45.0,12.0,,,,540.0
+2020-09-19,Romanian Deadlift,Legs,80.0,12.0,,,,960.0
+2020-09-19,Romanian Deadlift,Legs,80.0,12.0,,,,960.0
+2020-09-19,Romanian Deadlift,Legs,80.0,12.0,,,,960.0
+2020-09-19,Barbell Front Squat,Legs,55.0,10.0,,,,550.0
+2020-09-19,Barbell Front Squat,Legs,55.0,12.0,,,,660.0
+2020-09-19,Barbell Front Squat,Legs,55.0,12.0,,,,660.0
+2020-09-19,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2020-09-19,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2020-09-19,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2020-09-21,Deadlift,Back,45.0,5.0,,,,225.0
+2020-09-21,Deadlift,Back,95.0,5.0,,,,475.0
+2020-09-21,Deadlift,Back,135.0,5.0,,,,675.0
+2020-09-21,Deadlift,Back,185.0,5.0,,,,925.0
+2020-09-21,Deadlift,Back,205.0,5.0,,,,1025.0
+2020-09-21,Deadlift,Back,225.0,5.0,,,,1125.0
+2020-09-21,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2020-09-21,Lat Pulldown (Pulley),Back,150.0,12.0,,,,1800.0
+2020-09-21,Lat Pulldown (Pulley),Back,150.0,12.0,,,,1800.0
+2020-09-21,Lat Pulldown (Pulley),Back,150.0,12.0,,,,1800.0
+2020-09-21,V-Grip Seated Cable Row (Pulley),Back,140.0,12.0,,,,1680.0
+2020-09-21,V-Grip Seated Cable Row (Pulley),Back,140.0,12.0,,,,1680.0
+2020-09-21,V-Grip Seated Cable Row (Pulley),Back,140.0,12.0,,,,1680.0
+2020-09-21,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2020-09-21,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2020-09-21,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2020-09-21,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2020-09-21,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2020-09-21,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-21,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-21,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-21,Dumbbell Hammer Curl,Biceps,15.0,10.0,,,,150.0
+2020-09-21,Dumbbell Curl,Biceps,15.0,9.0,,,,135.0
+2020-09-21,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2020-09-21,Dumbbell Curl,Biceps,15.0,8.0,,,,120.0
+2020-09-21,Dumbbell Curl,Biceps,15.0,7.0,,,,105.0
+2020-09-22,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2020-09-22,Flat Barbell Bench Press,Chest,95.0,8.0,,,,760.0
+2020-09-22,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2020-09-22,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-22,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-22,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-22,Flat Barbell Bench Press,Chest,135.0,4.0,,,,540.0
+2020-09-22,Flat Barbell Bench Press,Chest,135.0,4.0,,,,540.0
+2020-09-22,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2020-09-22,Overhead Press,Shoulders,70.0,8.0,,,,560.0
+2020-09-22,Overhead Press,Shoulders,70.0,9.0,,,,630.0
+2020-09-22,Overhead Press,Shoulders,70.0,9.0,,,,630.0
+2020-09-22,Incline Barbell Bench Press,Chest,80.0,8.0,,,,640.0
+2020-09-22,Incline Barbell Bench Press,Chest,80.0,8.0,,,,640.0
+2020-09-22,Incline Barbell Bench Press,Chest,80.0,6.0,,,,480.0
+2020-09-22,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2020-09-22,Lateral Dumbbell Raise,Shoulders,10.0,15.0,,,,150.0
+2020-09-22,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2020-09-22,Lateral Dumbbell Raise,Shoulders,10.0,15.0,,,,150.0
+2020-09-22,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2020-09-22,Lateral Dumbbell Raise,Shoulders,10.0,15.0,,,,150.0
+2020-09-22,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2020-09-22,Lateral Dumbbell Raise,Shoulders,10.0,15.0,,,,150.0
+2020-09-22,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2020-09-22,Lateral Dumbbell Raise,Shoulders,10.0,15.0,,,,150.0
+2020-09-22,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2020-09-22,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-09-23,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-09-23,Barbell Squat,Legs,95.0,8.0,,,,760.0
+2020-09-23,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2020-09-23,Barbell Squat,Legs,165.0,3.0,,,,495.0
+2020-09-23,Barbell Squat,Legs,180.0,5.0,,,,900.0
+2020-09-23,Barbell Squat,Legs,180.0,5.0,,,,900.0
+2020-09-23,Barbell Squat,Legs,180.0,10.0,,,,1800.0
+2020-09-23,Hip Thrust,Legs,90.0,12.0,,,,1080.0
+2020-09-23,Hip Thrust,Legs,90.0,12.0,,,,1080.0
+2020-09-23,Hip Thrust,Legs,90.0,12.0,,,,1080.0
+2020-09-23,Romanian Deadlift,Legs,85.0,12.0,,,,1020.0
+2020-09-23,Romanian Deadlift,Legs,85.0,12.0,,,,1020.0
+2020-09-23,Romanian Deadlift,Legs,85.0,12.0,,,,1020.0
+2020-09-23,Barbell Front Squat,Legs,65.0,12.0,,,,780.0
+2020-09-23,Barbell Front Squat,Legs,65.0,12.0,,,,780.0
+2020-09-23,Barbell Front Squat,Legs,65.0,12.0,,,,780.0
+2020-09-23,Lying Leg Curl,Legs,55.0,12.0,,,,660.0
+2020-09-23,Lying Leg Curl,Legs,55.0,10.0,,,,550.0
+2020-09-23,Lying Leg Curl,Legs,55.0,10.0,,,,550.0
+2020-09-24,Bent Over Barbell Row,Back,45.0,12.0,,,,540.0
+2020-09-24,Bent Over Barbell Row,Back,75.0,8.0,,,,600.0
+2020-09-24,Bent Over Barbell Row,Back,95.0,6.0,,,,570.0
+2020-09-24,Bent Over Barbell Row,Back,130.0,5.0,,,,650.0
+2020-09-24,Bent Over Barbell Row,Back,130.0,5.0,,,,650.0
+2020-09-24,Bent Over Barbell Row,Back,130.0,5.0,,,,650.0
+2020-09-24,Bent Over Barbell Row,Back,130.0,5.0,,,,650.0
+2020-09-24,Bent Over Barbell Row,Back,130.0,6.0,,,,780.0
+2020-09-24,Lat Pulldown (Pulley),Back,150.0,12.0,,,,1800.0
+2020-09-24,Lat Pulldown (Pulley),Back,150.0,12.0,,,,1800.0
+2020-09-24,Lat Pulldown (Pulley),Back,150.0,12.0,,,,1800.0
+2020-09-24,V-Grip Seated Cable Row (Pulley),Back,160.0,12.0,,,,1920.0
+2020-09-24,V-Grip Seated Cable Row (Pulley),Back,160.0,12.0,,,,1920.0
+2020-09-24,V-Grip Seated Cable Row (Pulley),Back,160.0,12.0,,,,1920.0
+2020-09-24,Face Pull (Pulley),Back,35.0,20.0,,,,700.0
+2020-09-24,Face Pull (Pulley),Back,35.0,20.0,,,,700.0
+2020-09-24,Face Pull (Pulley),Back,35.0,20.0,,,,700.0
+2020-09-24,Face Pull (Pulley),Back,35.0,20.0,,,,700.0
+2020-09-24,Face Pull (Pulley),Back,35.0,20.0,,,,700.0
+2020-09-24,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-24,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-24,Dumbbell Hammer Curl,Biceps,15.0,11.0,,,,165.0
+2020-09-24,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-24,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2020-09-24,Dumbbell Curl,Biceps,15.0,9.0,,,,135.0
+2020-09-24,Dumbbell Curl,Biceps,15.0,9.0,,,,135.0
+2020-09-24,Dumbbell Curl,Biceps,15.0,9.0,,,,135.0
+2020-09-25,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2020-09-25,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2020-09-25,Overhead Press,Shoulders,75.0,4.0,,,,300.0
+2020-09-25,Overhead Press,Shoulders,90.0,5.0,,,,450.0
+2020-09-25,Overhead Press,Shoulders,90.0,5.0,,,,450.0
+2020-09-25,Overhead Press,Shoulders,90.0,4.0,,,,360.0
+2020-09-25,Overhead Press,Shoulders,90.0,5.0,,,,450.0
+2020-09-25,Overhead Press,Shoulders,90.0,5.0,,,,450.0
+2020-09-25,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2020-09-25,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2020-09-25,Flat Barbell Bench Press,Chest,105.0,12.0,,,,1260.0
+2020-09-25,Flat Barbell Bench Press,Chest,105.0,12.0,,,,1260.0
+2020-09-25,Flat Barbell Bench Press,Chest,105.0,12.0,,,,1260.0
+2020-09-25,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2020-09-25,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2020-09-25,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2020-09-25,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-09-25,Rope Push Down,Triceps,75.0,12.0,,,,900.0
+2020-09-25,Rope Push Down,Triceps,75.0,12.0,,,,900.0
+2020-09-25,Lateral Dumbbell Raise,Shoulders,10.0,15.0,,,,150.0
+2020-09-25,Rope Push Down,Triceps,75.0,12.0,,,,900.0
+2020-09-25,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-09-25,Cable Overhead Triceps Extension,Triceps,55.0,12.0,,,,660.0
+2020-09-25,Lateral Dumbbell Raise,Shoulders,10.0,15.0,,,,150.0
+2020-09-25,Cable Overhead Triceps Extension,Triceps,55.0,12.0,,,,660.0
+2020-09-25,Lateral Dumbbell Raise,Shoulders,10.0,15.0,,,,150.0
+2020-09-25,Cable Overhead Triceps Extension,Triceps,55.0,12.0,,,,660.0
+2020-09-25,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-09-26,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-09-26,Barbell Squat,Legs,95.0,8.0,,,,760.0
+2020-09-26,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2020-09-26,Barbell Squat,Legs,165.0,3.0,,,,495.0
+2020-09-26,Barbell Squat,Legs,185.0,5.0,,,,925.0
+2020-09-26,Barbell Squat,Legs,185.0,5.0,,,,925.0
+2020-09-26,Barbell Squat,Legs,185.0,8.0,,,,1480.0
+2020-09-26,Hip Thrust,Legs,95.0,12.0,,,,1140.0
+2020-09-26,Hip Thrust,Legs,95.0,12.0,,,,1140.0
+2020-09-26,Romanian Deadlift,Legs,95.0,12.0,,,,1140.0
+2020-09-26,Romanian Deadlift,Legs,95.0,12.0,,,,1140.0
+2020-09-26,Romanian Deadlift,Legs,95.0,12.0,,,,1140.0
+2020-09-26,Barbell Front Squat,Legs,75.0,12.0,,,,900.0
+2020-09-26,Barbell Front Squat,Legs,75.0,12.0,,,,900.0
+2020-09-26,Barbell Front Squat,Legs,75.0,12.0,,,,900.0
+2020-09-26,Lying Leg Curl,Legs,55.0,12.0,,,,660.0
+2020-09-26,Lying Leg Curl,Legs,55.0,12.0,,,,660.0
+2020-09-26,Lying Leg Curl,Legs,55.0,12.0,,,,660.0
+2020-09-26,Hip Thrust,Legs,95.0,12.0,,,,1140.0
+2020-09-28,Deadlift,Back,135.0,5.0,,,,675.0
+2020-09-28,Deadlift,Back,155.0,5.0,,,,775.0
+2020-09-28,Deadlift,Back,175.0,5.0,,,,875.0
+2020-09-28,Deadlift,Back,205.0,5.0,,,,1025.0
+2020-09-28,Deadlift,Back,235.0,6.0,,,,1410.0
+2020-09-28,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2020-09-28,Lat Pulldown (Pulley),Back,155.0,12.0,,,,1860.0
+2020-09-28,Lat Pulldown (Pulley),Back,155.0,12.0,,,,1860.0
+2020-09-28,Lat Pulldown (Pulley),Back,155.0,12.0,,,,1860.0
+2020-09-28,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-09-28,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-09-28,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-09-28,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-09-28,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-09-28,Face Pull (Pulley),Back,40.0,18.0,,,,720.0
+2020-09-28,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2020-09-28,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2020-09-28,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-28,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-28,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-28,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-28,Dumbbell Curl,Biceps,15.0,12.0,,,,180.0
+2020-09-28,Dumbbell Curl,Biceps,15.0,11.0,,,,165.0
+2020-09-28,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2020-09-28,Dumbbell Curl,Biceps,15.0,8.0,,,,120.0
+2020-09-29,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2020-09-29,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2020-09-29,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2020-09-29,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-29,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-29,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-29,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-09-29,Flat Barbell Bench Press,Chest,135.0,8.0,,,,1080.0
+2020-09-29,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2020-09-29,Overhead Press,Shoulders,60.0,8.0,,,,480.0
+2020-09-29,Overhead Press,Shoulders,70.0,12.0,,,,840.0
+2020-09-29,Overhead Press,Shoulders,70.0,9.0,,,,630.0
+2020-09-29,Overhead Press,Shoulders,70.0,9.0,,,,630.0
+2020-09-29,Incline Barbell Bench Press,Chest,80.0,10.0,,,,800.0
+2020-09-29,Incline Barbell Bench Press,Chest,80.0,8.0,,,,640.0
+2020-09-29,Incline Barbell Bench Press,Chest,80.0,6.0,,,,480.0
+2020-09-29,Rope Push Down,Triceps,80.0,12.0,,,,960.0
+2020-09-29,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-09-29,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-09-29,Rope Push Down,Triceps,80.0,11.0,,,,880.0
+2020-09-29,Rope Push Down,Triceps,80.0,9.0,,,,720.0
+2020-09-29,Lateral Dumbbell Raise,Shoulders,10.0,18.0,,,,180.0
+2020-09-29,Cable Overhead Triceps Extension,Triceps,60.0,10.0,,,,600.0
+2020-09-29,Lateral Dumbbell Raise,Shoulders,10.0,18.0,,,,180.0
+2020-09-29,Lateral Dumbbell Raise,Shoulders,10.0,18.0,,,,180.0
+2020-09-29,Cable Overhead Triceps Extension,Triceps,60.0,9.0,,,,540.0
+2020-09-29,Cable Overhead Triceps Extension,Triceps,60.0,9.0,,,,540.0
+2020-09-29,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-09-30,Barbell Squat,Legs,45.0,12.0,,,,540.0
+2020-09-30,Barbell Squat,Legs,95.0,10.0,,,,950.0
+2020-09-30,Barbell Squat,Legs,135.0,6.0,,,,810.0
+2020-09-30,Barbell Squat,Legs,165.0,3.0,,,,495.0
+2020-09-30,Barbell Squat,Legs,190.0,5.0,,,,950.0
+2020-09-30,Barbell Squat,Legs,190.0,5.0,,,,950.0
+2020-09-30,Barbell Squat,Legs,190.0,6.0,,,,1140.0
+2020-09-30,Hip Thrust,Legs,100.0,12.0,,,,1200.0
+2020-09-30,Hip Thrust,Legs,100.0,12.0,,,,1200.0
+2020-09-30,Hip Thrust,Legs,100.0,12.0,,,,1200.0
+2020-09-30,Romanian Deadlift,Legs,100.0,12.0,,,,1200.0
+2020-09-30,Romanian Deadlift,Legs,100.0,12.0,,,,1200.0
+2020-09-30,Romanian Deadlift,Legs,100.0,12.0,,,,1200.0
+2020-09-30,Barbell Front Squat,Legs,80.0,12.0,,,,960.0
+2020-09-30,Barbell Front Squat,Legs,80.0,12.0,,,,960.0
+2020-09-30,Barbell Front Squat,Legs,80.0,12.0,,,,960.0
+2020-09-30,Lying Leg Curl,Legs,60.0,12.0,,,,720.0
+2020-09-30,Lying Leg Curl,Legs,60.0,10.0,,,,600.0
+2020-09-30,Lying Leg Curl,Legs,60.0,8.0,,,,480.0
+2020-10-01,Bent Over Barbell Row,Back,45.0,12.0,,,,540.0
+2020-10-01,Bent Over Barbell Row,Back,75.0,10.0,,,,750.0
+2020-10-01,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2020-10-01,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2020-10-01,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2020-10-01,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2020-10-01,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2020-10-01,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2020-10-01,Bent Over Barbell Row,Back,135.0,6.0,,,,810.0
+2020-10-01,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-01,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-01,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-01,V-Grip Seated Cable Row (Pulley),Back,180.0,12.0,,,,2160.0
+2020-10-01,V-Grip Seated Cable Row (Pulley),Back,180.0,10.0,,,,1800.0
+2020-10-01,V-Grip Seated Cable Row (Pulley),Back,180.0,10.0,,,,1800.0
+2020-10-01,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-01,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-01,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-01,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-01,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-01,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-10-01,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-10-01,Dumbbell Hammer Curl,Biceps,15.0,11.0,,,,165.0
+2020-10-01,Dumbbell Hammer Curl,Biceps,15.0,10.0,,,,150.0
+2020-10-01,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2020-10-01,Dumbbell Curl,Biceps,15.0,8.0,,,,120.0
+2020-10-01,Dumbbell Curl,Biceps,15.0,8.0,,,,120.0
+2020-10-01,Dumbbell Curl,Biceps,15.0,8.0,,,,120.0
+2020-10-02,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2020-10-02,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2020-10-02,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2020-10-02,Overhead Press,Shoulders,85.0,3.0,,,,255.0
+2020-10-02,Overhead Press,Shoulders,90.0,5.0,,,,450.0
+2020-10-02,Overhead Press,Shoulders,90.0,5.0,,,,450.0
+2020-10-02,Overhead Press,Shoulders,90.0,5.0,,,,450.0
+2020-10-02,Overhead Press,Shoulders,90.0,5.0,,,,450.0
+2020-10-02,Overhead Press,Shoulders,90.0,6.0,,,,540.0
+2020-10-02,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2020-10-02,Flat Barbell Bench Press,Chest,75.0,10.0,,,,750.0
+2020-10-02,Flat Barbell Bench Press,Chest,95.0,8.0,,,,760.0
+2020-10-02,Flat Barbell Bench Press,Chest,110.0,12.0,,,,1320.0
+2020-10-02,Flat Barbell Bench Press,Chest,110.0,11.0,,,,1210.0
+2020-10-02,Flat Barbell Bench Press,Chest,110.0,8.0,,,,880.0
+2020-10-02,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2020-10-02,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2020-10-02,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2020-10-02,Rope Push Down,Triceps,80.0,12.0,,,,960.0
+2020-10-02,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-10-02,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-10-02,Rope Push Down,Triceps,80.0,12.0,,,,960.0
+2020-10-02,Rope Push Down,Triceps,80.0,12.0,,,,960.0
+2020-10-02,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-10-02,Cable Overhead Triceps Extension,Triceps,60.0,12.0,,,,720.0
+2020-10-02,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-10-02,Cable Overhead Triceps Extension,Triceps,60.0,10.0,,,,600.0
+2020-10-02,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-10-02,Cable Overhead Triceps Extension,Triceps,60.0,10.0,,,,600.0
+2020-10-02,Lateral Dumbbell Raise,Shoulders,10.0,20.0,,,,200.0
+2020-10-03,Barbell Squat,Legs,45.0,12.0,,,,540.0
+2020-10-03,Barbell Squat,Legs,95.0,10.0,,,,950.0
+2020-10-03,Barbell Squat,Legs,135.0,6.0,,,,810.0
+2020-10-03,Barbell Squat,Legs,165.0,3.0,,,,495.0
+2020-10-03,Barbell Squat,Legs,185.0,1.0,,,,185.0
+2020-10-03,Barbell Squat,Legs,195.0,5.0,,,,975.0
+2020-10-03,Barbell Squat,Legs,195.0,5.0,,,,975.0
+2020-10-03,Barbell Squat,Legs,195.0,6.0,,,,1170.0
+2020-10-03,Hip Thrust,Legs,105.0,12.0,,,,1260.0
+2020-10-03,Hip Thrust,Legs,105.0,12.0,,,,1260.0
+2020-10-03,Hip Thrust,Legs,105.0,12.0,,,,1260.0
+2020-10-03,Romanian Deadlift,Legs,105.0,12.0,,,,1260.0
+2020-10-03,Romanian Deadlift,Legs,105.0,12.0,,,,1260.0
+2020-10-03,Romanian Deadlift,Legs,105.0,12.0,,,,1260.0
+2020-10-03,Barbell Front Squat,Legs,85.0,8.0,,,,680.0
+2020-10-03,Barbell Front Squat,Legs,85.0,8.0,,,,680.0
+2020-10-03,Barbell Front Squat,Legs,85.0,8.0,,,,680.0
+2020-10-03,Lying Leg Curl,Legs,60.0,12.0,,,,720.0
+2020-10-03,Lying Leg Curl,Legs,60.0,12.0,,,,720.0
+2020-10-03,Lying Leg Curl,Legs,60.0,10.0,,,,600.0
+2020-10-05,Trap Bar Deadlift,Back,135.0,6.0,,,,810.0
+2020-10-05,Trap Bar Deadlift,Back,165.0,5.0,,,,825.0
+2020-10-05,Trap Bar Deadlift,Back,185.0,5.0,,,,925.0
+2020-10-05,Trap Bar Deadlift,Back,205.0,5.0,,,,1025.0
+2020-10-05,Trap Bar Deadlift,Back,225.0,5.0,,,,1125.0
+2020-10-05,Trap Bar Deadlift,Back,245.0,5.0,,,,1225.0
+2020-10-05,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2020-10-05,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-05,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-05,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-05,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-10-05,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-10-05,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-10-05,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-05,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-05,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-05,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-05,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-05,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-10-05,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-10-05,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-10-05,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2020-10-05,Dumbbell Curl,Biceps,15.0,12.0,,,,180.0
+2020-10-05,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2020-10-05,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2020-10-05,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2020-10-13,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2020-10-13,Flat Barbell Bench Press,Chest,75.0,10.0,,,,750.0
+2020-10-13,Flat Barbell Bench Press,Chest,95.0,8.0,,,,760.0
+2020-10-13,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2020-10-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-10-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-10-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-10-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2020-10-13,Flat Barbell Bench Press,Chest,135.0,6.0,,,,810.0
+2020-10-13,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2020-10-13,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2020-10-13,Overhead Press,Shoulders,65.0,12.0,,,,780.0
+2020-10-13,Overhead Press,Shoulders,65.0,12.0,,,,780.0
+2020-10-13,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2020-10-13,Incline Barbell Bench Press,Chest,75.0,12.0,,,,900.0
+2020-10-13,Incline Barbell Bench Press,Chest,75.0,11.0,,,,825.0
+2020-10-13,Incline Barbell Bench Press,Chest,75.0,9.0,,,,675.0
+2020-10-15,Trap Bar Deadlift,Back,135.0,5.0,,,,675.0
+2020-10-15,Trap Bar Deadlift,Back,155.0,5.0,,,,775.0
+2020-10-15,Trap Bar Deadlift,Back,175.0,5.0,,,,875.0
+2020-10-15,Trap Bar Deadlift,Back,195.0,5.0,,,,975.0
+2020-10-15,Trap Bar Deadlift,Back,215.0,5.0,,,,1075.0
+2020-10-15,Trap Bar Deadlift,Back,235.0,5.0,,,,1175.0
+2020-10-15,Trap Bar Deadlift,Back,245.0,8.0,,,,1960.0
+2020-10-15,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2020-10-15,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-15,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-15,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2020-10-15,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-10-15,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-10-15,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2020-10-15,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-15,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-15,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-15,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-15,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2020-10-22,Running (Treadmill),Cardio,,,2.49,mi,0:35:00,
+2020-11-01,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-11-01,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-11-01,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-11-01,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-11-01,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2020-11-01,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-11-01,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-11-01,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-11-01,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-11-01,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2020-11-05,Trap Bar Deadlift,Back,135.0,10.0,,,,1350.0
+2020-11-05,Trap Bar Deadlift,Back,185.0,8.0,,,,1480.0
+2020-11-05,Trap Bar Deadlift,Back,205.0,6.0,,,,1230.0
+2020-11-05,Trap Bar Deadlift,Back,225.0,6.0,,,,1350.0
+2020-11-05,Trap Bar Deadlift,Back,235.0,5.0,,,,1175.0
+2020-11-05,Trap Bar Deadlift,Back,245.0,5.0,,,,1225.0
+2020-11-05,Trap Bar Deadlift,Back,255.0,5.0,,,,1275.0
+2020-11-05,Bent Over Barbell Row,Back,45.0,12.0,,,,540.0
+2020-11-05,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2020-11-05,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2020-11-05,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2020-11-05,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2020-11-05,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2020-11-05,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2020-11-05,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2020-11-05,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2020-11-05,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2020-11-24,Barbell Squat,Legs,75.0,5.0,,,,375.0
+2020-11-24,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2020-11-24,Barbell Squat,Legs,115.0,3.0,,,,345.0
+2020-11-24,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2020-11-24,Barbell Squat,Legs,145.0,5.0,,,,725.0
+2020-11-24,Barbell Squat,Legs,160.0,5.0,,,,800.0
+2020-11-24,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2020-11-24,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2020-11-24,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2020-11-24,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2020-11-24,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2020-11-24,Flat Barbell Bench Press,Chest,55.0,5.0,,,,275.0
+2020-11-24,Flat Barbell Bench Press,Chest,65.0,5.0,,,,325.0
+2020-11-24,Flat Barbell Bench Press,Chest,80.0,3.0,,,,240.0
+2020-11-24,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2020-11-24,Flat Barbell Bench Press,Chest,100.0,5.0,,,,500.0
+2020-11-24,Flat Barbell Bench Press,Chest,115.0,6.0,,,,690.0
+2020-11-24,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2020-11-24,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2020-11-24,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2020-11-24,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2020-11-24,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2020-11-24,V-Grip Seated Cable Row (Pulley),Back,140.0,20.0,,,,2800.0
+2020-11-24,V-Grip Seated Cable Row (Pulley),Back,140.0,20.0,,,,2800.0
+2020-11-24,V-Grip Seated Cable Row (Pulley),Back,140.0,20.0,,,,2800.0
+2020-11-24,Incline Dumbbell Bench Press,Chest,15.0,20.0,,,,300.0
+2020-11-24,Incline Dumbbell Bench Press,Chest,15.0,20.0,,,,300.0
+2020-11-24,Incline Dumbbell Bench Press,Chest,15.0,20.0,,,,300.0
+2020-11-24,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-11-24,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-11-24,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2020-12-14,Barbell Squat,Legs,65.0,5.0,,,,325.0
+2020-12-14,Barbell Squat,Legs,80.0,5.0,,,,400.0
+2020-12-14,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2020-12-14,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2020-12-14,Barbell Squat,Legs,120.0,5.0,,,,600.0
+2020-12-14,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2020-12-14,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2020-12-14,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2020-12-14,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2020-12-14,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2020-12-14,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2020-12-16,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2020-12-16,Flat Barbell Bench Press,Chest,60.0,5.0,,,,300.0
+2020-12-16,Flat Barbell Bench Press,Chest,70.0,5.0,,,,350.0
+2020-12-16,Flat Barbell Bench Press,Chest,80.0,5.0,,,,400.0
+2020-12-16,Flat Barbell Bench Press,Chest,90.0,5.0,,,,450.0
+2020-12-16,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2020-12-16,Flat Barbell Bench Press,Chest,80.0,5.0,,,,400.0
+2020-12-16,Flat Barbell Bench Press,Chest,80.0,5.0,,,,400.0
+2020-12-16,Flat Barbell Bench Press,Chest,80.0,5.0,,,,400.0
+2020-12-16,Flat Barbell Bench Press,Chest,80.0,5.0,,,,400.0
+2020-12-16,Flat Barbell Bench Press,Chest,80.0,5.0,,,,400.0
+2020-12-17,Deadlift,Back,85.0,5.0,,,,425.0
+2020-12-17,Deadlift,Back,105.0,5.0,,,,525.0
+2020-12-17,Deadlift,Back,135.0,5.0,,,,675.0
+2020-12-17,Deadlift,Back,145.0,5.0,,,,725.0
+2020-12-17,Deadlift,Back,165.0,5.0,,,,825.0
+2020-12-17,Deadlift,Back,185.0,5.0,,,,925.0
+2020-12-17,Deadlift,Back,135.0,5.0,,,,675.0
+2020-12-17,Deadlift,Back,135.0,5.0,,,,675.0
+2020-12-17,Deadlift,Back,135.0,5.0,,,,675.0
+2020-12-17,Deadlift,Back,135.0,5.0,,,,675.0
+2020-12-17,Deadlift,Back,135.0,5.0,,,,675.0
+2021-01-29,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-01-29,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-01-29,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-01-29,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-01-29,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-01-29,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-01-29,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-01-29,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-01-29,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-01-29,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-01-29,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2021-01-29,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2021-01-29,Ab Lounge,Abs,0.0,20.0,,,,0.0
+2021-01-30,Running (Treadmill),Cardio,,,1.92,mi,0:30:00,
+2021-02-01,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2021-02-01,Barbell Squat,Legs,75.0,5.0,,,,375.0
+2021-02-01,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-02-01,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2021-02-01,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-02-01,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-02-01,Barbell Squat,Legs,115.0,8.0,,,,920.0
+2021-02-01,Bent Over Barbell Row,Back,45.0,5.0,,,,225.0
+2021-02-01,Bent Over Barbell Row,Back,65.0,5.0,,,,325.0
+2021-02-01,Bent Over Barbell Row,Back,85.0,5.0,,,,425.0
+2021-02-01,Bent Over Barbell Row,Back,95.0,5.0,,,,475.0
+2021-02-01,Bent Over Barbell Row,Back,95.0,5.0,,,,475.0
+2021-02-01,Bent Over Barbell Row,Back,95.0,5.0,,,,475.0
+2021-02-01,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2021-02-01,Flat Barbell Bench Press,Chest,65.0,5.0,,,,325.0
+2021-02-01,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-02-01,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-02-01,Flat Barbell Bench Press,Chest,85.0,10.0,,,,850.0
+2021-02-02,Running (Treadmill),Cardio,,,1.92,mi,0:30:00,
+2021-02-03,Deadlift,Back,135.0,5.0,,,,675.0
+2021-02-03,Deadlift,Back,155.0,5.0,,,,775.0
+2021-02-03,Deadlift,Back,175.0,5.0,,,,875.0
+2021-02-03,Deadlift,Back,175.0,5.0,,,,875.0
+2021-02-03,Deadlift,Back,175.0,5.0,,,,875.0
+2021-02-03,Lat Pulldown (Pulley),Back,90.0,10.0,,,,900.0
+2021-02-03,Lat Pulldown (Pulley),Back,110.0,10.0,,,,1100.0
+2021-02-03,Lat Pulldown (Pulley),Back,120.0,10.0,,,,1200.0
+2021-02-03,Lat Pulldown (Pulley),Back,130.0,10.0,,,,1300.0
+2021-02-03,Lat Pulldown (Pulley),Back,130.0,10.0,,,,1300.0
+2021-02-03,Lat Pulldown (Pulley),Back,130.0,10.0,,,,1300.0
+2021-02-03,Arnold Dumbbell Press,Shoulders,10.0,10.0,,,,100.0
+2021-02-03,Arnold Dumbbell Press,Shoulders,15.0,10.0,,,,150.0
+2021-02-03,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-02-03,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-02-03,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-02-04,Running (Treadmill),Cardio,,,1.97,mi,0:30:00,
+2021-02-05,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-02-05,Barbell Squat,Legs,75.0,6.0,,,,450.0
+2021-02-05,Barbell Squat,Legs,95.0,4.0,,,,380.0
+2021-02-05,Barbell Squat,Legs,115.0,2.0,,,,230.0
+2021-02-05,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-02-05,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-02-05,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-02-05,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-02-05,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-02-05,Bent Over Barbell Row,Back,45.0,10.0,,,,450.0
+2021-02-05,Bent Over Barbell Row,Back,65.0,8.0,,,,520.0
+2021-02-05,Bent Over Barbell Row,Back,85.0,6.0,,,,510.0
+2021-02-05,Bent Over Barbell Row,Back,95.0,3.0,,,,285.0
+2021-02-05,Bent Over Barbell Row,Back,95.0,5.0,,,,475.0
+2021-02-05,Bent Over Barbell Row,Back,95.0,5.0,,,,475.0
+2021-02-05,Bent Over Barbell Row,Back,95.0,5.0,,,,475.0
+2021-02-05,Bent Over Barbell Row,Back,95.0,5.0,,,,475.0
+2021-02-05,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2021-02-05,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-02-05,Flat Barbell Bench Press,Chest,65.0,8.0,,,,520.0
+2021-02-05,Flat Barbell Bench Press,Chest,75.0,6.0,,,,450.0
+2021-02-05,Flat Barbell Bench Press,Chest,85.0,3.0,,,,255.0
+2021-02-05,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-02-05,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-02-05,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-02-05,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-02-05,Flat Barbell Bench Press,Chest,85.0,10.0,,,,850.0
+2021-02-08,Deadlift,Back,135.0,5.0,,,,675.0
+2021-02-08,Deadlift,Back,155.0,5.0,,,,775.0
+2021-02-08,Deadlift,Back,175.0,5.0,,,,875.0
+2021-02-08,Deadlift,Back,185.0,5.0,,,,925.0
+2021-02-08,Deadlift,Back,185.0,5.0,,,,925.0
+2021-02-08,Deadlift,Back,185.0,5.0,,,,925.0
+2021-02-08,Lat Pulldown (Pulley),Back,90.0,10.0,,,,900.0
+2021-02-08,Lat Pulldown (Pulley),Back,110.0,10.0,,,,1100.0
+2021-02-08,Lat Pulldown (Pulley),Back,130.0,10.0,,,,1300.0
+2021-02-08,Lat Pulldown (Pulley),Back,140.0,10.0,,,,1400.0
+2021-02-08,Lat Pulldown (Pulley),Back,140.0,10.0,,,,1400.0
+2021-02-08,Lat Pulldown (Pulley),Back,140.0,10.0,,,,1400.0
+2021-02-08,Arnold Dumbbell Press,Shoulders,10.0,10.0,,,,100.0
+2021-02-08,Arnold Dumbbell Press,Shoulders,15.0,10.0,,,,150.0
+2021-02-08,Arnold Dumbbell Press,Shoulders,20.0,12.0,,,,240.0
+2021-02-08,Arnold Dumbbell Press,Shoulders,20.0,12.0,,,,240.0
+2021-02-08,Arnold Dumbbell Press,Shoulders,20.0,12.0,,,,240.0
+2021-02-09,Running (Treadmill),Cardio,,,1.94,mi,0:30:00,
+2021-02-10,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-02-10,Barbell Squat,Legs,75.0,8.0,,,,600.0
+2021-02-10,Barbell Squat,Legs,95.0,6.0,,,,570.0
+2021-02-10,Barbell Squat,Legs,115.0,4.0,,,,460.0
+2021-02-10,Barbell Squat,Legs,135.0,2.0,,,,270.0
+2021-02-10,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-02-10,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-02-10,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-02-10,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-02-10,Barbell Squat,Legs,135.0,8.0,,,,1080.0
+2021-02-10,Bent Over Barbell Row,Back,45.0,10.0,,,,450.0
+2021-02-10,Bent Over Barbell Row,Back,65.0,8.0,,,,520.0
+2021-02-10,Bent Over Barbell Row,Back,85.0,6.0,,,,510.0
+2021-02-10,Bent Over Barbell Row,Back,95.0,4.0,,,,380.0
+2021-02-10,Bent Over Barbell Row,Back,105.0,2.0,,,,210.0
+2021-02-10,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-02-10,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-02-10,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-02-10,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-02-10,Bent Over Barbell Row,Back,105.0,8.0,,,,840.0
+2021-02-10,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-02-10,Flat Barbell Bench Press,Chest,65.0,10.0,,,,650.0
+2021-02-10,Flat Barbell Bench Press,Chest,75.0,8.0,,,,600.0
+2021-02-10,Flat Barbell Bench Press,Chest,85.0,6.0,,,,510.0
+2021-02-10,Flat Barbell Bench Press,Chest,95.0,4.0,,,,380.0
+2021-02-10,Flat Barbell Bench Press,Chest,105.0,2.0,,,,210.0
+2021-02-10,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2021-02-10,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2021-02-10,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2021-02-10,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2021-02-10,Flat Barbell Bench Press,Chest,105.0,10.0,,,,1050.0
+2021-02-11,Deadlift,Back,135.0,5.0,,,,675.0
+2021-02-11,Deadlift,Back,155.0,5.0,,,,775.0
+2021-02-11,Deadlift,Back,175.0,5.0,,,,875.0
+2021-02-11,Deadlift,Back,195.0,5.0,,,,975.0
+2021-02-11,Deadlift,Back,195.0,5.0,,,,975.0
+2021-02-11,Deadlift,Back,195.0,5.0,,,,975.0
+2021-02-11,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2021-02-11,Lat Pulldown (Pulley),Back,110.0,12.0,,,,1320.0
+2021-02-11,Lat Pulldown (Pulley),Back,130.0,12.0,,,,1560.0
+2021-02-11,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-02-11,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-02-11,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-02-11,Arnold Dumbbell Press,Shoulders,10.0,15.0,,,,150.0
+2021-02-11,Arnold Dumbbell Press,Shoulders,15.0,15.0,,,,225.0
+2021-02-11,Arnold Dumbbell Press,Shoulders,20.0,15.0,,,,300.0
+2021-02-11,Arnold Dumbbell Press,Shoulders,20.0,15.0,,,,300.0
+2021-02-11,Arnold Dumbbell Press,Shoulders,20.0,15.0,,,,300.0
+2021-03-29,Running (Outdoor),Cardio,,,2.24,mi,0:30:10,
+2021-03-31,Running (Outdoor),Cardio,,,2.22,mi,0:30:15,
+2021-04-01,Barbell Squat,Legs,60.0,5.0,,,,300.0
+2021-04-01,Barbell Squat,Legs,75.0,5.0,,,,375.0
+2021-04-01,Barbell Squat,Legs,85.0,5.0,,,,425.0
+2021-04-01,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-04-01,Barbell Squat,Legs,110.0,5.0,,,,550.0
+2021-04-01,Barbell Squat,Legs,125.0,7.0,,,,875.0
+2021-04-01,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-04-01,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-04-01,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-04-01,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2021-04-01,Flat Barbell Bench Press,Chest,55.0,5.0,,,,275.0
+2021-04-01,Flat Barbell Bench Press,Chest,65.0,5.0,,,,325.0
+2021-04-01,Flat Barbell Bench Press,Chest,75.0,5.0,,,,375.0
+2021-04-01,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-04-01,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-04-01,Flat Barbell Bench Press,Chest,75.0,5.0,,,,375.0
+2021-04-01,Flat Barbell Bench Press,Chest,75.0,5.0,,,,375.0
+2021-04-01,Flat Barbell Bench Press,Chest,75.0,5.0,,,,375.0
+2021-04-08,Deadlift,Back,135.0,5.0,,,,675.0
+2021-04-08,Deadlift,Back,155.0,5.0,,,,775.0
+2021-04-08,Deadlift,Back,175.0,5.0,,,,875.0
+2021-04-08,Deadlift,Back,185.0,5.0,,,,925.0
+2021-04-08,Deadlift,Back,185.0,5.0,,,,925.0
+2021-04-08,Deadlift,Back,185.0,7.0,,,,1295.0
+2021-04-08,Overhead Press,Shoulders,45.0,5.0,,,,225.0
+2021-04-08,Overhead Press,Shoulders,55.0,5.0,,,,275.0
+2021-04-08,Overhead Press,Shoulders,65.0,5.0,,,,325.0
+2021-04-08,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-04-08,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-04-08,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-04-12,Deadlift,Back,135.0,5.0,,,,675.0
+2021-04-12,Deadlift,Back,155.0,5.0,,,,775.0
+2021-04-12,Deadlift,Back,175.0,5.0,,,,875.0
+2021-04-12,Deadlift,Back,185.0,5.0,,,,925.0
+2021-04-12,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2021-04-12,Lat Pulldown (Pulley),Back,110.0,10.0,,,,1100.0
+2021-04-12,Lat Pulldown (Pulley),Back,110.0,12.0,,,,1320.0
+2021-04-12,Lat Pulldown (Pulley),Back,110.0,12.0,,,,1320.0
+2021-04-12,V-Grip Seated Cable Row (Pulley),Back,110.0,15.0,,,,1650.0
+2021-04-12,V-Grip Seated Cable Row (Pulley),Back,130.0,12.0,,,,1560.0
+2021-04-12,V-Grip Seated Cable Row (Pulley),Back,130.0,12.0,,,,1560.0
+2021-04-12,V-Grip Seated Cable Row (Pulley),Back,130.0,20.0,,,,2600.0
+2021-04-12,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-04-12,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-04-12,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-04-12,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-04-12,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-12,Dumbbell Hammer Curl,Biceps,8.0,12.0,,,,96.0
+2021-04-12,Dumbbell Hammer Curl,Biceps,8.0,12.0,,,,96.0
+2021-04-12,Dumbbell Hammer Curl,Biceps,8.0,12.0,,,,96.0
+2021-04-12,Dumbbell Hammer Curl,Biceps,8.0,12.0,,,,96.0
+2021-04-12,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-12,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-12,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-04-12,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-04-13,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-04-13,Flat Barbell Bench Press,Chest,75.0,8.0,,,,600.0
+2021-04-13,Flat Barbell Bench Press,Chest,95.0,6.0,,,,570.0
+2021-04-13,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-04-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2021-04-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2021-04-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2021-04-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2021-04-13,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2021-04-13,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2021-04-13,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-04-13,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-04-13,Overhead Press,Shoulders,55.0,8.0,,,,440.0
+2021-04-13,Incline Barbell Bench Press,Chest,55.0,12.0,,,,660.0
+2021-04-13,Incline Barbell Bench Press,Chest,55.0,11.0,,,,605.0
+2021-04-13,Incline Barbell Bench Press,Chest,55.0,8.0,,,,440.0
+2021-04-13,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-04-13,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-04-13,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-04-13,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-04-13,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-04-13,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-04-13,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2021-04-13,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-04-13,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2021-04-13,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-04-13,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2021-04-13,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-04-14,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-04-14,Barbell Squat,Legs,75.0,6.0,,,,450.0
+2021-04-14,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-04-14,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-04-14,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-04-14,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-04-14,Barbell Squat,Legs,145.0,5.0,,,,725.0
+2021-04-14,Barbell Squat,Legs,145.0,5.0,,,,725.0
+2021-04-14,Barbell Squat,Legs,145.0,7.0,,,,1015.0
+2021-04-14,Romanian Deadlift,Legs,45.0,12.0,,,,540.0
+2021-04-14,Romanian Deadlift,Legs,85.0,10.0,,,,850.0
+2021-04-14,Romanian Deadlift,Legs,85.0,10.0,,,,850.0
+2021-04-14,Romanian Deadlift,Legs,85.0,10.0,,,,850.0
+2021-04-14,Barbell Front Squat,Legs,45.0,12.0,,,,540.0
+2021-04-14,Barbell Front Squat,Legs,45.0,12.0,,,,540.0
+2021-04-14,Barbell Front Squat,Legs,45.0,12.0,,,,540.0
+2021-04-14,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2021-04-14,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2021-04-14,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2021-04-15,Bent Over Barbell Row,Back,45.0,10.0,,,,450.0
+2021-04-15,Bent Over Barbell Row,Back,75.0,8.0,,,,600.0
+2021-04-15,Bent Over Barbell Row,Back,95.0,6.0,,,,570.0
+2021-04-15,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2021-04-15,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2021-04-15,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2021-04-15,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2021-04-15,Bent Over Barbell Row,Back,115.0,10.0,,,,1150.0
+2021-04-15,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2021-04-15,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2021-04-15,Lat Pulldown (Pulley),Back,130.0,12.0,,,,1560.0
+2021-04-15,V-Grip Seated Cable Row (Pulley),Back,150.0,12.0,,,,1800.0
+2021-04-15,V-Grip Seated Cable Row (Pulley),Back,150.0,12.0,,,,1800.0
+2021-04-15,V-Grip Seated Cable Row (Pulley),Back,150.0,12.0,,,,1800.0
+2021-04-15,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-15,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-15,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-15,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-15,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-15,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-15,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-15,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-15,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-15,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-15,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-15,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-15,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-04-16,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2021-04-16,Overhead Press,Shoulders,55.0,8.0,,,,440.0
+2021-04-16,Overhead Press,Shoulders,65.0,6.0,,,,390.0
+2021-04-16,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-04-16,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-04-16,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-04-16,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-04-16,Overhead Press,Shoulders,75.0,8.0,,,,600.0
+2021-04-16,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-04-16,Flat Barbell Bench Press,Chest,65.0,12.0,,,,780.0
+2021-04-16,Flat Barbell Bench Press,Chest,85.0,12.0,,,,1020.0
+2021-04-16,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-04-16,Incline Dumbbell Bench Press,Chest,15.0,15.0,,,,225.0
+2021-04-16,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2021-04-16,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2021-04-16,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2021-04-16,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-04-16,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-16,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-04-16,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-16,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-04-16,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-16,Cable Overhead Triceps Extension,Triceps,60.0,10.0,,,,600.0
+2021-04-16,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-16,Cable Overhead Triceps Extension,Triceps,60.0,10.0,,,,600.0
+2021-04-16,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-16,Cable Overhead Triceps Extension,Triceps,60.0,10.0,,,,600.0
+2021-04-16,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-20,Flat Barbell Bench Press,Chest,45.0,15.0,,,,675.0
+2021-04-20,Flat Barbell Bench Press,Chest,75.0,12.0,,,,900.0
+2021-04-20,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2021-04-20,Flat Barbell Bench Press,Chest,85.0,10.0,,,,850.0
+2021-04-20,Lat Pulldown (Pulley),Back,110.0,10.0,,,,1100.0
+2021-04-20,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2021-04-20,Lat Pulldown (Pulley),Back,130.0,10.0,,,,1300.0
+2021-04-20,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2021-04-20,Lat Pulldown (Pulley),Back,130.0,10.0,,,,1300.0
+2021-04-20,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2021-04-20,Lat Pulldown (Pulley),Back,130.0,10.0,,,,1300.0
+2021-04-20,Incline Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-04-20,V-Grip Seated Cable Row (Pulley),Back,110.0,12.0,,,,1320.0
+2021-04-20,Incline Barbell Bench Press,Chest,65.0,10.0,,,,650.0
+2021-04-20,V-Grip Seated Cable Row (Pulley),Back,160.0,10.0,,,,1600.0
+2021-04-20,Incline Barbell Bench Press,Chest,65.0,10.0,,,,650.0
+2021-04-20,V-Grip Seated Cable Row (Pulley),Back,160.0,10.0,,,,1600.0
+2021-04-20,Incline Barbell Bench Press,Chest,65.0,10.0,,,,650.0
+2021-04-20,V-Grip Seated Cable Row (Pulley),Back,160.0,10.0,,,,1600.0
+2021-04-20,Incline Barbell Bench Press,Chest,65.0,10.0,,,,650.0
+2021-04-20,V-Grip Seated Cable Row (Pulley),Back,160.0,10.0,,,,1600.0
+2021-04-20,Arnold Dumbbell Press,Shoulders,15.0,12.0,,,,180.0
+2021-04-20,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-20,Arnold Dumbbell Press,Shoulders,15.0,12.0,,,,180.0
+2021-04-20,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-20,Arnold Dumbbell Press,Shoulders,15.0,12.0,,,,180.0
+2021-04-20,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-25,Deadlift,Back,135.0,5.0,,,,675.0
+2021-04-25,Deadlift,Back,165.0,5.0,,,,825.0
+2021-04-25,Deadlift,Back,185.0,5.0,,,,925.0
+2021-04-25,Deadlift,Back,205.0,3.0,,,,615.0
+2021-04-25,Deadlift,Back,225.0,3.0,,,,675.0
+2021-04-25,Deadlift,Back,245.0,1.0,,,,245.0
+2021-04-25,Deadlift,Back,255.0,1.0,,,,255.0
+2021-04-25,V-Grip Seated Cable Row (Pulley),Back,110.0,15.0,,,,1650.0
+2021-04-25,V-Grip Seated Cable Row (Pulley),Back,140.0,15.0,,,,2100.0
+2021-04-25,V-Grip Seated Cable Row (Pulley),Back,140.0,15.0,,,,2100.0
+2021-04-25,V-Grip Seated Cable Row (Pulley),Back,140.0,15.0,,,,2100.0
+2021-04-25,Incline Dumbbell Bench Press,Chest,15.0,15.0,,,,225.0
+2021-04-25,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-04-25,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-04-25,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-04-27,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2021-04-27,Barbell Squat,Legs,75.0,5.0,,,,375.0
+2021-04-27,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-04-27,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-04-27,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2021-04-27,Barbell Squat,Legs,145.0,5.0,,,,725.0
+2021-04-27,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2021-04-27,Barbell Squat,Legs,125.0,5.0,,,,625.0
+2021-04-27,Barbell Squat,Legs,125.0,8.0,,,,1000.0
+2021-04-27,Flat Barbell Bench Press,Chest,60.0,5.0,,,,300.0
+2021-04-27,Flat Barbell Bench Press,Chest,75.0,5.0,,,,375.0
+2021-04-27,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-04-27,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-04-27,Flat Barbell Bench Press,Chest,110.0,5.0,,,,550.0
+2021-04-27,Flat Barbell Bench Press,Chest,125.0,8.0,,,,1000.0
+2021-04-27,Flat Barbell Bench Press,Chest,95.0,8.0,,,,760.0
+2021-04-27,Flat Barbell Bench Press,Chest,95.0,8.0,,,,760.0
+2021-04-27,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-04-27,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-04-27,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-04-27,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-04-28,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-04-28,Flat Barbell Bench Press,Chest,65.0,12.0,,,,780.0
+2021-04-28,Flat Barbell Bench Press,Chest,75.0,12.0,,,,900.0
+2021-04-28,Flat Barbell Bench Press,Chest,85.0,12.0,,,,1020.0
+2021-04-28,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-04-28,Flat Barbell Bench Press,Chest,105.0,10.0,,,,1050.0
+2021-04-28,Bent Over Barbell Row,Back,45.0,12.0,,,,540.0
+2021-04-28,Bent Over Barbell Row,Back,75.0,12.0,,,,900.0
+2021-04-28,Bent Over Barbell Row,Back,95.0,12.0,,,,1140.0
+2021-04-28,Bent Over Barbell Row,Back,115.0,8.0,,,,920.0
+2021-04-28,Bent Over Barbell Row,Back,115.0,8.0,,,,920.0
+2021-04-28,Bent Over Barbell Row,Back,115.0,8.0,,,,920.0
+2021-04-28,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-04-28,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-04-28,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-04-28,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-04-28,Incline Dumbbell Bench Press,Chest,20.0,20.0,,,,400.0
+2021-04-28,V-Grip Seated Cable Row (Pulley),Back,160.0,15.0,,,,2400.0
+2021-04-28,V-Grip Seated Cable Row (Pulley),Back,160.0,15.0,,,,2400.0
+2021-04-28,V-Grip Seated Cable Row (Pulley),Back,160.0,12.0,,,,1920.0
+2021-04-28,V-Grip Seated Cable Row (Pulley),Back,160.0,12.0,,,,1920.0
+2021-04-28,V-Grip Seated Cable Row (Pulley),Back,160.0,12.0,,,,1920.0
+2021-04-28,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-28,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-28,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-28,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-28,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-04-28,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-28,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-28,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-28,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-28,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-04-28,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-04-28,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2021-04-28,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-04-28,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2021-04-28,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2021-04-28,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2021-04-28,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2021-04-28,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2021-04-28,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2021-04-28,Dumbbell Curl,Biceps,15.0,10.0,,,,150.0
+2021-04-29,Deadlift,Back,135.0,5.0,,,,675.0
+2021-04-29,Deadlift,Back,165.0,5.0,,,,825.0
+2021-04-29,Deadlift,Back,195.0,5.0,,,,975.0
+2021-04-29,Deadlift,Back,215.0,5.0,,,,1075.0
+2021-04-29,Deadlift,Back,235.0,5.0,,,,1175.0
+2021-04-29,Deadlift,Back,255.0,2.0,,,,510.0
+2021-04-29,Deadlift,Back,275.0,1.0,,,,275.0
+2021-04-29,Overhead Press,Shoulders,45.0,5.0,,,,225.0
+2021-04-29,Overhead Press,Shoulders,55.0,5.0,,,,275.0
+2021-04-29,Overhead Press,Shoulders,65.0,5.0,,,,325.0
+2021-04-29,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-04-29,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-04-29,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-04-29,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-04-29,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-04-29,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-04-29,Goblet Squat,Legs,10.0,15.0,,,,150.0
+2021-04-29,Goblet Squat,Legs,20.0,15.0,,,,300.0
+2021-04-29,Goblet Squat,Legs,20.0,15.0,,,,300.0
+2021-04-29,Goblet Squat,Legs,20.0,15.0,,,,300.0
+2021-04-29,Goblet Squat,Legs,20.0,20.0,,,,400.0
+2021-04-29,Lat Pulldown (Pulley),Back,90.0,15.0,,,,1350.0
+2021-04-29,Lat Pulldown (Pulley),Back,140.0,15.0,,,,2100.0
+2021-04-29,Lat Pulldown (Pulley),Back,140.0,15.0,,,,2100.0
+2021-04-29,Lat Pulldown (Pulley),Back,140.0,15.0,,,,2100.0
+2021-04-29,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2021-04-29,Flat Dumbbell Bench Press,Chest,15.0,20.0,,,,300.0
+2021-04-29,Flat Dumbbell Bench Press,Chest,25.0,20.0,,,,500.0
+2021-04-29,Flat Dumbbell Bench Press,Chest,25.0,20.0,,,,500.0
+2021-04-29,Flat Dumbbell Bench Press,Chest,25.0,20.0,,,,500.0
+2021-04-30,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-04-30,Flat Barbell Bench Press,Chest,65.0,12.0,,,,780.0
+2021-04-30,Flat Barbell Bench Press,Chest,85.0,12.0,,,,1020.0
+2021-04-30,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-04-30,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-04-30,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-04-30,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-04-30,Flat Barbell Bench Press,Chest,95.0,15.0,,,,1425.0
+2021-04-30,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-04-30,Barbell Squat,Legs,65.0,10.0,,,,650.0
+2021-04-30,Barbell Squat,Legs,85.0,10.0,,,,850.0
+2021-04-30,Barbell Squat,Legs,85.0,10.0,,,,850.0
+2021-04-30,Barbell Squat,Legs,85.0,10.0,,,,850.0
+2021-04-30,Barbell Squat,Legs,85.0,10.0,,,,850.0
+2021-04-30,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2021-04-30,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2021-04-30,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2021-04-30,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2021-04-30,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2021-04-30,Goblet Squat,Legs,25.0,15.0,,,,375.0
+2021-04-30,Goblet Squat,Legs,25.0,15.0,,,,375.0
+2021-04-30,Goblet Squat,Legs,25.0,15.0,,,,375.0
+2021-04-30,Arnold Dumbbell Press,Shoulders,15.0,15.0,,,,225.0
+2021-04-30,Arnold Dumbbell Press,Shoulders,20.0,15.0,,,,300.0
+2021-04-30,Arnold Dumbbell Press,Shoulders,20.0,15.0,,,,300.0
+2021-05-02,Bent Over Barbell Row,Back,45.0,10.0,,,,450.0
+2021-05-02,Bent Over Barbell Row,Back,75.0,10.0,,,,750.0
+2021-05-02,Bent Over Barbell Row,Back,95.0,10.0,,,,950.0
+2021-05-02,Bent Over Barbell Row,Back,115.0,10.0,,,,1150.0
+2021-05-02,Bent Over Barbell Row,Back,115.0,10.0,,,,1150.0
+2021-05-02,Bent Over Barbell Row,Back,115.0,10.0,,,,1150.0
+2021-05-02,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2021-05-02,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-05-02,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-05-02,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-05-02,Lat Pulldown (Pulley),Back,150.0,12.0,,,,1800.0
+2021-05-02,Lat Pulldown (Pulley),Back,150.0,12.0,,,,1800.0
+2021-05-02,V-Grip Seated Cable Row (Pulley),Back,170.0,10.0,,,,1700.0
+2021-05-02,V-Grip Seated Cable Row (Pulley),Back,170.0,10.0,,,,1700.0
+2021-05-02,V-Grip Seated Cable Row (Pulley),Back,170.0,10.0,,,,1700.0
+2021-05-02,V-Grip Seated Cable Row (Pulley),Back,170.0,10.0,,,,1700.0
+2021-05-02,V-Grip Seated Cable Row (Pulley),Back,170.0,12.0,,,,2040.0
+2021-05-02,Dumbbell Hammer Curl,Biceps,15.0,10.0,,,,150.0
+2021-05-02,Dumbbell Hammer Curl,Biceps,15.0,10.0,,,,150.0
+2021-05-02,Dumbbell Hammer Curl,Biceps,15.0,10.0,,,,150.0
+2021-05-02,Dumbbell Hammer Curl,Biceps,15.0,10.0,,,,150.0
+2021-05-02,Dumbbell Curl,Biceps,20.0,10.0,,,,200.0
+2021-05-02,Dumbbell Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-02,Dumbbell Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-02,Dumbbell Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-04,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-05-04,Flat Barbell Bench Press,Chest,75.0,5.0,,,,375.0
+2021-05-04,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-05-04,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-05-04,Flat Barbell Bench Press,Chest,135.0,5.0,,,,675.0
+2021-05-04,Flat Barbell Bench Press,Chest,145.0,5.0,,,,725.0
+2021-05-04,Flat Barbell Bench Press,Chest,155.0,3.0,,,,465.0
+2021-05-04,Flat Barbell Bench Press,Chest,165.0,2.0,,,,330.0
+2021-05-04,Flat Barbell Bench Press,Chest,175.0,1.0,,,,175.0
+2021-05-04,Incline Dumbbell Bench Press,Chest,25.0,15.0,,,,375.0
+2021-05-04,Incline Dumbbell Bench Press,Chest,25.0,15.0,,,,375.0
+2021-05-04,Incline Dumbbell Bench Press,Chest,25.0,15.0,,,,375.0
+2021-05-04,Incline Dumbbell Bench Press,Chest,35.0,10.0,,,,350.0
+2021-05-04,Incline Dumbbell Bench Press,Chest,35.0,10.0,,,,350.0
+2021-05-04,Incline Dumbbell Bench Press,Chest,35.0,10.0,,,,350.0
+2021-05-04,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2021-05-04,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-05-04,Overhead Press,Shoulders,65.0,10.0,,,,650.0
+2021-05-04,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2021-05-04,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2021-05-04,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-05-04,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-05-04,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-05-04,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-05-04,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-05-04,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2021-05-04,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2021-05-04,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2021-05-04,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2021-05-04,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2021-05-07,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-05-07,Flat Barbell Bench Press,Chest,75.0,8.0,,,,600.0
+2021-05-07,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-05-07,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-05-07,Flat Barbell Bench Press,Chest,135.0,3.0,,,,405.0
+2021-05-07,Flat Barbell Bench Press,Chest,155.0,2.0,,,,310.0
+2021-05-07,Flat Barbell Bench Press,Chest,165.0,1.0,,,,165.0
+2021-05-07,Flat Barbell Bench Press,Chest,175.0,1.0,,,,175.0
+2021-05-07,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2021-05-07,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2021-05-07,Overhead Press,Shoulders,75.0,6.0,,,,450.0
+2021-05-07,Overhead Press,Shoulders,75.0,8.0,,,,600.0
+2021-05-07,Overhead Press,Shoulders,85.0,6.0,,,,510.0
+2021-05-07,Incline Barbell Bench Press,Chest,75.0,10.0,,,,750.0
+2021-05-07,Incline Barbell Bench Press,Chest,85.0,10.0,,,,850.0
+2021-05-07,Incline Barbell Bench Press,Chest,85.0,8.0,,,,680.0
+2021-05-07,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-05-07,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-07,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-05-07,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-07,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-05-07,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-07,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2021-05-07,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-07,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2021-05-07,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2021-05-07,Cable Overhead Triceps Extension,Triceps,50.0,15.0,,,,750.0
+2021-05-07,Lateral Dumbbell Raise,Shoulders,8.0,20.0,,,,160.0
+2021-05-09,Deadlift,Back,135.0,5.0,,,,675.0
+2021-05-09,Deadlift,Back,165.0,5.0,,,,825.0
+2021-05-09,Deadlift,Back,185.0,5.0,,,,925.0
+2021-05-09,Deadlift,Back,205.0,5.0,,,,1025.0
+2021-05-09,Deadlift,Back,225.0,5.0,,,,1125.0
+2021-05-09,Deadlift,Back,245.0,5.0,,,,1225.0
+2021-05-09,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2021-05-09,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2021-05-09,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2021-05-09,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2021-05-09,Bent Over Barbell Row,Back,135.0,5.0,,,,675.0
+2021-05-09,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2021-05-09,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2021-05-09,Lat Pulldown (Pulley),Back,160.0,10.0,,,,1600.0
+2021-05-09,Lat Pulldown (Pulley),Back,160.0,10.0,,,,1600.0
+2021-05-09,Lat Pulldown (Pulley),Back,160.0,10.0,,,,1600.0
+2021-05-09,V-Grip Seated Cable Row (Pulley),Back,180.0,10.0,,,,1800.0
+2021-05-09,V-Grip Seated Cable Row (Pulley),Back,180.0,10.0,,,,1800.0
+2021-05-09,V-Grip Seated Cable Row (Pulley),Back,180.0,10.0,,,,1800.0
+2021-05-09,V-Grip Seated Cable Row (Pulley),Back,180.0,10.0,,,,1800.0
+2021-05-09,V-Grip Seated Cable Row (Pulley),Back,180.0,10.0,,,,1800.0
+2021-05-09,EZ-Bar Curl,Biceps,45.0,10.0,,,,450.0
+2021-05-09,EZ-Bar Curl,Biceps,45.0,10.0,,,,450.0
+2021-05-09,EZ-Bar Curl,Biceps,45.0,10.0,,,,450.0
+2021-05-09,Running (Treadmill),Cardio,,,2.31,mi,0:32:30,
+2021-05-13,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2021-05-13,Barbell Squat,Legs,75.0,5.0,,,,375.0
+2021-05-13,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-05-13,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-05-13,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-05-13,Barbell Squat,Legs,145.0,5.0,,,,725.0
+2021-05-13,Barbell Squat,Legs,155.0,5.0,,,,775.0
+2021-05-13,Romanian Deadlift,Legs,45.0,10.0,,,,450.0
+2021-05-13,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-05-13,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-05-13,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-05-13,Barbell Front Squat,Legs,45.0,10.0,,,,450.0
+2021-05-13,Barbell Front Squat,Legs,55.0,10.0,,,,550.0
+2021-05-13,Barbell Front Squat,Legs,65.0,10.0,,,,650.0
+2021-05-13,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2021-05-13,Lying Leg Curl,Legs,40.0,12.0,,,,480.0
+2021-05-13,Lying Leg Curl,Legs,45.0,10.0,,,,450.0
+2021-05-13,Goblet Squat,Legs,25.0,15.0,,,,375.0
+2021-05-13,Goblet Squat,Legs,25.0,15.0,,,,375.0
+2021-05-13,Goblet Squat,Legs,25.0,15.0,,,,375.0
+2021-05-14,Deadlift,Back,135.0,5.0,,,,675.0
+2021-05-14,Deadlift,Back,165.0,5.0,,,,825.0
+2021-05-14,Deadlift,Back,195.0,5.0,,,,975.0
+2021-05-14,Deadlift,Back,215.0,5.0,,,,1075.0
+2021-05-14,Deadlift,Back,235.0,5.0,,,,1175.0
+2021-05-14,Deadlift,Back,255.0,4.0,,,,1020.0
+2021-05-14,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2021-05-14,Lat Pulldown (Pulley),Back,160.0,12.0,,,,1920.0
+2021-05-14,Lat Pulldown (Pulley),Back,180.0,10.0,,,,1800.0
+2021-05-14,Lat Pulldown (Pulley),Back,180.0,10.0,,,,1800.0
+2021-05-14,V-Grip Seated Cable Row (Pulley),Back,180.0,12.0,,,,2160.0
+2021-05-14,V-Grip Seated Cable Row (Pulley),Back,180.0,12.0,,,,2160.0
+2021-05-14,V-Grip Seated Cable Row (Pulley),Back,180.0,12.0,,,,2160.0
+2021-05-14,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-05-14,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-05-14,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-05-14,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-05-14,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-05-14,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2021-05-14,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2021-05-14,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2021-05-14,Dumbbell Hammer Curl,Biceps,15.0,12.0,,,,180.0
+2021-05-14,Dumbbell Curl,Biceps,15.0,12.0,,,,180.0
+2021-05-14,Dumbbell Curl,Biceps,15.0,12.0,,,,180.0
+2021-05-14,Dumbbell Curl,Biceps,15.0,12.0,,,,180.0
+2021-05-14,Dumbbell Curl,Biceps,15.0,12.0,,,,180.0
+2021-05-15,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-05-15,Flat Barbell Bench Press,Chest,65.0,10.0,,,,650.0
+2021-05-15,Flat Barbell Bench Press,Chest,85.0,10.0,,,,850.0
+2021-05-15,Flat Barbell Bench Press,Chest,105.0,10.0,,,,1050.0
+2021-05-15,Flat Barbell Bench Press,Chest,115.0,10.0,,,,1150.0
+2021-05-15,Flat Barbell Bench Press,Chest,115.0,10.0,,,,1150.0
+2021-05-15,Flat Barbell Bench Press,Chest,115.0,10.0,,,,1150.0
+2021-05-15,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2021-05-15,Overhead Press,Shoulders,60.0,10.0,,,,600.0
+2021-05-15,Overhead Press,Shoulders,60.0,10.0,,,,600.0
+2021-05-15,Overhead Press,Shoulders,65.0,10.0,,,,650.0
+2021-05-15,Overhead Press,Shoulders,65.0,10.0,,,,650.0
+2021-05-15,Incline Barbell Bench Press,Chest,75.0,10.0,,,,750.0
+2021-05-15,Incline Barbell Bench Press,Chest,75.0,9.0,,,,675.0
+2021-05-15,Incline Barbell Bench Press,Chest,75.0,9.0,,,,675.0
+2021-05-15,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-05-15,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-05-15,Arnold Dumbbell Press,Shoulders,25.0,8.0,,,,200.0
+2021-05-15,Incline Dumbbell Bench Press,Chest,35.0,8.0,,,,280.0
+2021-05-15,Incline Dumbbell Bench Press,Chest,35.0,7.0,,,,245.0
+2021-05-15,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2021-05-16,Bent Over Barbell Row,Back,45.0,5.0,,,,225.0
+2021-05-16,Bent Over Barbell Row,Back,85.0,5.0,,,,425.0
+2021-05-16,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-05-16,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2021-05-16,Bent Over Barbell Row,Back,145.0,5.0,,,,725.0
+2021-05-16,Bent Over Barbell Row,Back,145.0,5.0,,,,725.0
+2021-05-16,Bent Over Barbell Row,Back,145.0,5.0,,,,725.0
+2021-05-16,Bent Over Barbell Row,Back,145.0,5.0,,,,725.0
+2021-05-16,Bent Over Barbell Row,Back,145.0,5.0,,,,725.0
+2021-05-16,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2021-05-16,Lat Pulldown (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-16,Lat Pulldown (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-16,Lat Pulldown (Pulley),Back,185.0,8.0,,,,1480.0
+2021-05-16,V-Grip Seated Cable Row (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-16,V-Grip Seated Cable Row (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-16,V-Grip Seated Cable Row (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-16,V-Grip Seated Cable Row (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-16,V-Grip Seated Cable Row (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-16,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2021-05-16,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2021-05-16,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2021-05-16,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2021-05-16,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2021-05-16,Dumbbell Curl,Biceps,20.0,10.0,,,,200.0
+2021-05-16,Dumbbell Curl,Biceps,20.0,10.0,,,,200.0
+2021-05-16,Dumbbell Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-16,EZ-Bar Curl,Biceps,55.0,4.0,,,,220.0
+2021-05-16,EZ-Bar Curl,Biceps,50.0,5.0,,,,250.0
+2021-05-16,EZ-Bar Curl,Biceps,45.0,6.0,,,,270.0
+2021-05-16,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-05-16,EZ-Bar Curl,Biceps,25.0,15.0,,,,375.0
+2021-05-16,EZ-Bar Curl,Biceps,15.0,20.0,,,,300.0
+2021-05-17,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2021-05-17,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-05-17,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-05-17,Barbell Squat,Legs,155.0,5.0,,,,775.0
+2021-05-17,Barbell Squat,Legs,155.0,5.0,,,,775.0
+2021-05-17,Barbell Squat,Legs,155.0,8.0,,,,1240.0
+2021-05-17,Romanian Deadlift,Legs,45.0,10.0,,,,450.0
+2021-05-17,Romanian Deadlift,Legs,85.0,10.0,,,,850.0
+2021-05-17,Romanian Deadlift,Legs,85.0,12.0,,,,1020.0
+2021-05-17,Romanian Deadlift,Legs,85.0,12.0,,,,1020.0
+2021-05-17,Barbell Front Squat,Legs,65.0,10.0,,,,650.0
+2021-05-17,Barbell Front Squat,Legs,65.0,10.0,,,,650.0
+2021-05-17,Barbell Front Squat,Legs,65.0,10.0,,,,650.0
+2021-05-17,Lying Leg Curl,Legs,45.0,10.0,,,,450.0
+2021-05-17,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2021-05-17,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2021-05-17,Goblet Squat,Legs,25.0,20.0,,,,500.0
+2021-05-17,Goblet Squat,Legs,25.0,20.0,,,,500.0
+2021-05-17,Goblet Squat,Legs,25.0,15.0,,,,375.0
+2021-05-19,Deadlift,Back,135.0,5.0,,,,675.0
+2021-05-19,Deadlift,Back,165.0,5.0,,,,825.0
+2021-05-19,Deadlift,Back,185.0,5.0,,,,925.0
+2021-05-19,Deadlift,Back,205.0,5.0,,,,1025.0
+2021-05-19,Deadlift,Back,225.0,5.0,,,,1125.0
+2021-05-19,Deadlift,Back,245.0,5.0,,,,1225.0
+2021-05-19,Deadlift,Back,255.0,5.0,,,,1275.0
+2021-05-19,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2021-05-19,Lat Pulldown (Pulley),Back,185.0,12.0,,,,2220.0
+2021-05-19,Lat Pulldown (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-19,Lat Pulldown (Pulley),Back,185.0,10.0,,,,1850.0
+2021-05-19,V-Grip Seated Cable Row (Pulley),Back,160.0,12.0,,,,1920.0
+2021-05-19,V-Grip Seated Cable Row (Pulley),Back,190.0,12.0,,,,2280.0
+2021-05-19,V-Grip Seated Cable Row (Pulley),Back,190.0,12.0,,,,2280.0
+2021-05-19,V-Grip Seated Cable Row (Pulley),Back,190.0,10.0,,,,1900.0
+2021-05-19,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2021-05-19,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2021-05-19,Face Pull (Pulley),Back,40.0,20.0,,,,800.0
+2021-05-19,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2021-05-19,Face Pull (Pulley),Back,40.0,15.0,,,,600.0
+2021-05-19,Dumbbell Hammer Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-19,Dumbbell Hammer Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-19,Dumbbell Hammer Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-19,Dumbbell Hammer Curl,Biceps,20.0,10.0,,,,200.0
+2021-05-19,Dumbbell Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-19,Dumbbell Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-19,Dumbbell Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-19,Dumbbell Curl,Biceps,20.0,8.0,,,,160.0
+2021-05-20,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2021-05-20,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-05-20,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2021-05-20,Flat Barbell Bench Press,Chest,125.0,5.0,,,,625.0
+2021-05-20,Flat Barbell Bench Press,Chest,145.0,5.0,,,,725.0
+2021-05-20,Flat Barbell Bench Press,Chest,145.0,5.0,,,,725.0
+2021-05-20,Flat Barbell Bench Press,Chest,145.0,5.0,,,,725.0
+2021-05-20,Flat Barbell Bench Press,Chest,145.0,5.0,,,,725.0
+2021-05-20,Flat Barbell Bench Press,Chest,145.0,5.0,,,,725.0
+2021-05-20,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-05-20,Overhead Press,Shoulders,65.0,12.0,,,,780.0
+2021-05-20,Overhead Press,Shoulders,65.0,12.0,,,,780.0
+2021-05-20,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2021-05-20,Incline Barbell Bench Press,Chest,75.0,10.0,,,,750.0
+2021-05-20,Incline Barbell Bench Press,Chest,75.0,9.0,,,,675.0
+2021-05-20,Incline Barbell Bench Press,Chest,75.0,8.0,,,,600.0
+2021-05-20,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2021-05-20,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-20,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2021-05-20,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-20,Rope Push Down,Triceps,70.0,12.0,,,,840.0
+2021-05-20,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-20,Cable Overhead Triceps Extension,Triceps,60.0,12.0,,,,720.0
+2021-05-20,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-20,Cable Overhead Triceps Extension,Triceps,60.0,12.0,,,,720.0
+2021-05-20,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-20,Cable Overhead Triceps Extension,Triceps,60.0,12.0,,,,720.0
+2021-05-20,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-05-21,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2021-05-21,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-05-21,Barbell Squat,Legs,135.0,5.0,,,,675.0
+2021-05-21,Barbell Squat,Legs,155.0,3.0,,,,465.0
+2021-05-21,Barbell Squat,Legs,165.0,5.0,,,,825.0
+2021-05-21,Barbell Squat,Legs,165.0,5.0,,,,825.0
+2021-05-21,Barbell Squat,Legs,165.0,6.0,,,,990.0
+2021-05-21,Romanian Deadlift,Legs,45.0,12.0,,,,540.0
+2021-05-21,Romanian Deadlift,Legs,90.0,10.0,,,,900.0
+2021-05-21,Romanian Deadlift,Legs,90.0,10.0,,,,900.0
+2021-05-21,Romanian Deadlift,Legs,90.0,10.0,,,,900.0
+2021-05-21,Barbell Front Squat,Legs,65.0,12.0,,,,780.0
+2021-05-21,Barbell Front Squat,Legs,65.0,12.0,,,,780.0
+2021-05-21,Barbell Front Squat,Legs,65.0,12.0,,,,780.0
+2021-05-21,Lying Leg Curl,Legs,55.0,10.0,,,,550.0
+2021-05-21,Lying Leg Curl,Legs,55.0,10.0,,,,550.0
+2021-05-21,Lying Leg Curl,Legs,55.0,10.0,,,,550.0
+2021-08-20,Flat Barbell Bench Press,Chest,45.0,15.0,,,,675.0
+2021-08-20,Flat Barbell Bench Press,Chest,65.0,12.0,,,,780.0
+2021-08-20,Flat Barbell Bench Press,Chest,85.0,10.0,,,,850.0
+2021-08-20,Flat Barbell Bench Press,Chest,95.0,8.0,,,,760.0
+2021-08-20,Flat Barbell Bench Press,Chest,105.0,6.0,,,,630.0
+2021-08-20,Arnold Dumbbell Press,Shoulders,15.0,12.0,,,,180.0
+2021-08-20,Arnold Dumbbell Press,Shoulders,15.0,12.0,,,,180.0
+2021-08-20,Arnold Dumbbell Press,Shoulders,15.0,12.0,,,,180.0
+2021-08-20,V-Grip Seated Cable Row (Pulley),Back,90.0,15.0,,,,1350.0
+2021-08-20,V-Grip Seated Cable Row (Pulley),Back,120.0,15.0,,,,1800.0
+2021-08-20,V-Grip Seated Cable Row (Pulley),Back,140.0,15.0,,,,2100.0
+2021-08-20,V-Grip Seated Cable Row (Pulley),Back,160.0,15.0,,,,2400.0
+2021-08-20,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-08-20,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-08-20,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-08-20,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-08-20,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-08-20,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-08-20,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-08-20,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-09-03,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-09-03,Flat Barbell Bench Press,Chest,65.0,12.0,,,,780.0
+2021-09-03,Flat Barbell Bench Press,Chest,85.0,8.0,,,,680.0
+2021-09-03,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-09-03,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-09-03,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-09-03,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-09-03,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-09-03,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-09-03,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-09-03,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-09-03,Incline Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-09-03,Incline Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-09-03,Incline Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-09-03,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-09-03,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-09-03,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-09-03,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-09-03,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-09-03,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-09-03,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2021-09-03,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-09-03,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2021-09-03,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-09-03,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2021-09-03,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-09-28,Deadlift,Back,135.0,5.0,,,,675.0
+2021-09-28,Deadlift,Back,155.0,5.0,,,,775.0
+2021-09-28,Deadlift,Back,175.0,5.0,,,,875.0
+2021-09-28,Deadlift,Back,195.0,5.0,,,,975.0
+2021-09-28,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2021-09-28,Lat Pulldown (Pulley),Back,110.0,12.0,,,,1320.0
+2021-09-28,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2021-09-28,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2021-09-28,V-Grip Seated Cable Row (Pulley),Back,90.0,15.0,,,,1350.0
+2021-09-28,V-Grip Seated Cable Row (Pulley),Back,120.0,12.0,,,,1440.0
+2021-09-28,V-Grip Seated Cable Row (Pulley),Back,130.0,12.0,,,,1560.0
+2021-09-28,V-Grip Seated Cable Row (Pulley),Back,130.0,12.0,,,,1560.0
+2021-09-28,EZ-Bar Curl,Biceps,25.0,12.0,,,,300.0
+2021-09-28,EZ-Bar Curl,Biceps,25.0,12.0,,,,300.0
+2021-09-28,EZ-Bar Curl,Biceps,25.0,12.0,,,,300.0
+2021-09-28,EZ-Bar Curl,Biceps,25.0,12.0,,,,300.0
+2021-09-29,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-09-29,Flat Barbell Bench Press,Chest,75.0,8.0,,,,600.0
+2021-09-29,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-09-29,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2021-09-29,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2021-09-29,Flat Barbell Bench Press,Chest,105.0,5.0,,,,525.0
+2021-09-29,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-09-29,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-09-29,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-09-29,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-09-29,Incline Barbell Bench Press,Chest,55.0,10.0,,,,550.0
+2021-09-29,Incline Barbell Bench Press,Chest,55.0,10.0,,,,550.0
+2021-09-29,Incline Barbell Bench Press,Chest,55.0,10.0,,,,550.0
+2021-09-29,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-09-29,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-09-29,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-09-29,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-09-29,Rope Push Down,Triceps,50.0,12.0,,,,600.0
+2021-09-29,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-09-29,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2021-09-29,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-09-29,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2021-09-29,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-09-29,Cable Overhead Triceps Extension,Triceps,50.0,10.0,,,,500.0
+2021-09-29,Lateral Dumbbell Raise,Shoulders,8.0,10.0,,,,80.0
+2021-10-02,Deadlift,Back,95.0,10.0,,,,950.0
+2021-10-02,Deadlift,Back,145.0,8.0,,,,1160.0
+2021-10-02,Deadlift,Back,185.0,5.0,,,,925.0
+2021-10-02,Deadlift,Back,275.0,1.0,,,,275.0
+2021-10-02,Deadlift,Back,235.0,3.0,,,,705.0
+2021-10-02,Deadlift,Back,235.0,5.0,,,,1175.0
+2021-10-02,Deadlift,Back,235.0,3.0,,,,705.0
+2021-10-02,Static Lunge,Legs,45.0,10.0,,,,450.0
+2021-10-02,Static Lunge,Legs,65.0,10.0,,,,650.0
+2021-10-02,Static Lunge,Legs,65.0,10.0,,,,650.0
+2021-10-02,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2021-10-02,Flat Barbell Bench Press,Chest,145.0,2.0,,,,290.0
+2021-10-02,Barbell Row,Back,50.0,10.0,,,,500.0
+2021-10-02,Barbell Row,Back,60.0,10.0,,,,600.0
+2021-10-02,Barbell Row,Back,60.0,10.0,,,,600.0
+2021-10-02,Lat Pulldown,Back,100.0,10.0,,,,1000.0
+2021-10-02,Lat Pulldown,Back,115.0,10.0,,,,1150.0
+2021-10-02,Lat Pulldown,Back,115.0,8.0,,,,920.0
+2021-10-06,Bent Over Barbell Row,Back,45.0,10.0,,,,450.0
+2021-10-06,Bent Over Barbell Row,Back,95.0,8.0,,,,760.0
+2021-10-06,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2021-10-06,Bent Over Barbell Row,Back,115.0,5.0,,,,575.0
+2021-10-06,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2021-10-06,Bent Over Barbell Row,Back,125.0,5.0,,,,625.0
+2021-10-06,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2021-10-06,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2021-10-06,Lat Pulldown (Pulley),Back,130.0,12.0,,,,1560.0
+2021-10-06,Lat Pulldown (Pulley),Back,130.0,12.0,,,,1560.0
+2021-10-06,V-Grip Seated Cable Row (Pulley),Back,110.0,12.0,,,,1320.0
+2021-10-06,V-Grip Seated Cable Row (Pulley),Back,130.0,12.0,,,,1560.0
+2021-10-06,V-Grip Seated Cable Row (Pulley),Back,140.0,12.0,,,,1680.0
+2021-10-06,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-10-06,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-10-06,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-10-06,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-10-06,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-10-06,EZ-Bar Curl,Biceps,35.0,12.0,,,,420.0
+2021-10-06,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-10-06,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-10-06,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-10-06,Dumbbell Hammer Curl,Biceps,15.0,8.0,,,,120.0
+2021-10-06,Dumbbell Hammer Curl,Biceps,15.0,8.0,,,,120.0
+2021-10-06,Dumbbell Hammer Curl,Biceps,10.0,10.0,,,,100.0
+2021-10-06,Dumbbell Hammer Curl,Biceps,10.0,12.0,,,,120.0
+2021-10-07,Overhead Press,Shoulders,45.0,12.0,,,,540.0
+2021-10-07,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-10-07,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2021-10-07,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-10-07,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-10-07,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-10-07,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-10-07,Flat Barbell Bench Press,Chest,45.0,15.0,,,,675.0
+2021-10-07,Flat Barbell Bench Press,Chest,65.0,12.0,,,,780.0
+2021-10-07,Flat Barbell Bench Press,Chest,75.0,12.0,,,,900.0
+2021-10-07,Flat Barbell Bench Press,Chest,85.0,12.0,,,,1020.0
+2021-10-07,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2021-10-07,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2021-10-07,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2021-10-07,Incline Dumbbell Bench Press,Chest,25.0,12.0,,,,300.0
+2021-10-07,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-10-07,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-10-07,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-10-07,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-10-07,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-10-07,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-10-07,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2021-10-07,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-10-07,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2021-10-07,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-10-08,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-10-08,Barbell Squat,Legs,65.0,8.0,,,,520.0
+2021-10-08,Barbell Squat,Legs,85.0,6.0,,,,510.0
+2021-10-08,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-10-08,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2021-10-08,Barbell Squat,Legs,115.0,5.0,,,,575.0
+2021-10-08,Romanian Deadlift,Legs,45.0,10.0,,,,450.0
+2021-10-08,Romanian Deadlift,Legs,65.0,10.0,,,,650.0
+2021-10-08,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-10-08,Romanian Deadlift,Legs,85.0,8.0,,,,680.0
+2021-10-08,Goblet Squat,Legs,20.0,15.0,,,,300.0
+2021-10-08,Goblet Squat,Legs,25.0,12.0,,,,300.0
+2021-10-08,Goblet Squat,Legs,25.0,12.0,,,,300.0
+2021-10-08,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2021-10-08,Lying Leg Curl,Legs,45.0,10.0,,,,450.0
+2021-10-08,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2021-11-06,Deadlift,Back,135.0,5.0,,,,675.0
+2021-11-06,Deadlift,Back,165.0,5.0,,,,825.0
+2021-11-06,Deadlift,Back,195.0,5.0,,,,975.0
+2021-11-06,Deadlift,Back,225.0,5.0,,,,1125.0
+2021-11-06,Flat Barbell Bench Press,Chest,45.0,15.0,,,,675.0
+2021-11-06,Flat Barbell Bench Press,Chest,65.0,10.0,,,,650.0
+2021-11-06,Flat Barbell Bench Press,Chest,85.0,10.0,,,,850.0
+2021-11-06,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2021-11-06,Flat Barbell Bench Press,Chest,105.0,8.0,,,,840.0
+2021-11-06,Flat Barbell Bench Press,Chest,115.0,6.0,,,,690.0
+2021-11-06,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2021-11-06,Barbell Squat,Legs,65.0,5.0,,,,325.0
+2021-11-06,Barbell Squat,Legs,85.0,5.0,,,,425.0
+2021-11-06,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-11-06,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2021-11-06,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-06,Rope Push Down,Triceps,50.0,10.0,,,,500.0
+2021-11-06,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-06,Rope Push Down,Triceps,60.0,10.0,,,,600.0
+2021-11-06,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-06,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2021-11-06,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-06,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2021-11-06,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-06,Rope Push Down,Triceps,70.0,10.0,,,,700.0
+2021-11-13,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-11-13,Flat Barbell Bench Press,Chest,75.0,12.0,,,,900.0
+2021-11-13,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2021-11-13,Flat Barbell Bench Press,Chest,105.0,6.0,,,,630.0
+2021-11-13,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-11-13,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-11-13,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-11-13,Arnold Dumbbell Press,Shoulders,15.0,12.0,,,,180.0
+2021-11-13,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-11-13,Arnold Dumbbell Press,Shoulders,20.0,10.0,,,,200.0
+2021-11-13,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2021-11-13,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2021-11-13,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2021-11-18,Deadlift,Back,95.0,5.0,,,,475.0
+2021-11-18,Deadlift,Back,115.0,5.0,,,,575.0
+2021-11-18,Deadlift,Back,135.0,3.0,,,,405.0
+2021-11-18,Deadlift,Back,145.0,5.0,,,,725.0
+2021-11-18,Deadlift,Back,165.0,5.0,,,,825.0
+2021-11-18,Deadlift,Back,195.0,6.0,,,,1170.0
+2021-11-18,Deadlift,Back,145.0,5.0,,,,725.0
+2021-11-18,Deadlift,Back,145.0,5.0,,,,725.0
+2021-11-18,Deadlift,Back,145.0,5.0,,,,725.0
+2021-11-18,Overhead Press,Shoulders,45.0,5.0,,,,225.0
+2021-11-18,Overhead Press,Shoulders,55.0,5.0,,,,275.0
+2021-11-18,Overhead Press,Shoulders,65.0,8.0,,,,520.0
+2021-11-18,Overhead Press,Shoulders,50.0,5.0,,,,250.0
+2021-11-18,Overhead Press,Shoulders,50.0,5.0,,,,250.0
+2021-11-18,Overhead Press,Shoulders,50.0,5.0,,,,250.0
+2021-11-18,Overhead Press,Shoulders,50.0,5.0,,,,250.0
+2021-11-18,Overhead Press,Shoulders,50.0,5.0,,,,250.0
+2021-11-18,Goblet Squat,Legs,15.0,12.0,,,,180.0
+2021-11-18,Goblet Squat,Legs,15.0,15.0,,,,225.0
+2021-11-18,Goblet Squat,Legs,15.0,12.0,,,,180.0
+2021-11-18,Goblet Squat,Legs,15.0,15.0,,,,225.0
+2021-11-18,Goblet Squat,Legs,15.0,12.0,,,,180.0
+2021-11-18,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2021-11-18,Incline Dumbbell Bench Press,Chest,20.0,12.0,,,,240.0
+2021-11-18,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-11-18,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-11-18,Incline Dumbbell Bench Press,Chest,20.0,15.0,,,,300.0
+2021-11-18,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-18,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-18,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-18,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-18,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-20,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2021-11-20,Flat Barbell Bench Press,Chest,60.0,5.0,,,,300.0
+2021-11-20,Flat Barbell Bench Press,Chest,75.0,3.0,,,,225.0
+2021-11-20,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-11-20,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-11-20,Flat Barbell Bench Press,Chest,105.0,8.0,,,,840.0
+2021-11-20,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-11-20,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-11-20,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-11-20,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-11-20,Flat Barbell Bench Press,Chest,85.0,5.0,,,,425.0
+2021-11-20,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2021-11-20,Barbell Squat,Legs,60.0,5.0,,,,300.0
+2021-11-20,Barbell Squat,Legs,75.0,5.0,,,,375.0
+2021-11-20,Barbell Squat,Legs,85.0,5.0,,,,425.0
+2021-11-20,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-11-20,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2021-11-20,Barbell Squat,Legs,85.0,5.0,,,,425.0
+2021-11-20,Barbell Squat,Legs,85.0,5.0,,,,425.0
+2021-11-20,Barbell Squat,Legs,85.0,5.0,,,,425.0
+2021-11-20,Barbell Squat,Legs,85.0,5.0,,,,425.0
+2021-11-20,Barbell Squat,Legs,85.0,5.0,,,,425.0
+2021-11-20,Arnold Dumbbell Press,Shoulders,15.0,15.0,,,,225.0
+2021-11-20,Arnold Dumbbell Press,Shoulders,15.0,15.0,,,,225.0
+2021-11-20,Arnold Dumbbell Press,Shoulders,15.0,15.0,,,,225.0
+2021-11-20,Arnold Dumbbell Press,Shoulders,15.0,15.0,,,,225.0
+2021-11-20,Arnold Dumbbell Press,Shoulders,15.0,15.0,,,,225.0
+2021-11-20,Lying Leg Curl,Legs,25.0,15.0,,,,375.0
+2021-11-20,Lying Leg Curl,Legs,30.0,15.0,,,,450.0
+2021-11-20,Lying Leg Curl,Legs,30.0,15.0,,,,450.0
+2021-11-20,Lying Leg Curl,Legs,35.0,15.0,,,,525.0
+2021-11-20,Lying Leg Curl,Legs,35.0,15.0,,,,525.0
+2021-11-22,Deadlift,Back,135.0,5.0,,,,675.0
+2021-11-22,Deadlift,Back,155.0,5.0,,,,775.0
+2021-11-22,Deadlift,Back,175.0,5.0,,,,875.0
+2021-11-22,Deadlift,Back,195.0,5.0,,,,975.0
+2021-11-22,Deadlift,Back,215.0,5.0,,,,1075.0
+2021-11-22,Lat Pulldown (Pulley),Back,90.0,12.0,,,,1080.0
+2021-11-22,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2021-11-22,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2021-11-22,Lat Pulldown (Pulley),Back,140.0,12.0,,,,1680.0
+2021-11-22,V-Grip Seated Cable Row (Pulley),Back,110.0,12.0,,,,1320.0
+2021-11-22,V-Grip Seated Cable Row (Pulley),Back,140.0,12.0,,,,1680.0
+2021-11-22,V-Grip Seated Cable Row (Pulley),Back,140.0,12.0,,,,1680.0
+2021-11-22,V-Grip Seated Cable Row (Pulley),Back,140.0,12.0,,,,1680.0
+2021-11-22,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-22,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-22,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-22,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-22,Face Pull (Pulley),Back,25.0,20.0,,,,500.0
+2021-11-22,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-22,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-22,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-11-22,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-11-22,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-11-22,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-11-22,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-11-22,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-11-23,Overhead Press,Shoulders,45.0,8.0,,,,360.0
+2021-11-23,Overhead Press,Shoulders,65.0,6.0,,,,390.0
+2021-11-23,Overhead Press,Shoulders,75.0,5.0,,,,375.0
+2021-11-23,Overhead Press,Shoulders,95.0,5.0,,,,475.0
+2021-11-23,Overhead Press,Shoulders,95.0,5.0,,,,475.0
+2021-11-23,Overhead Press,Shoulders,95.0,4.0,,,,380.0
+2021-11-23,Overhead Press,Shoulders,95.0,2.0,,,,190.0
+2021-11-23,Overhead Press,Shoulders,80.0,5.0,,,,400.0
+2021-11-23,Flat Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-11-23,Flat Barbell Bench Press,Chest,95.0,10.0,,,,950.0
+2021-11-23,Flat Barbell Bench Press,Chest,115.0,8.0,,,,920.0
+2021-11-23,Flat Barbell Bench Press,Chest,115.0,7.0,,,,805.0
+2021-11-23,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-11-23,Incline Barbell Bench Press,Chest,45.0,10.0,,,,450.0
+2021-11-23,Incline Barbell Bench Press,Chest,65.0,8.0,,,,520.0
+2021-11-23,Incline Barbell Bench Press,Chest,55.0,9.0,,,,495.0
+2021-11-23,Incline Barbell Bench Press,Chest,55.0,8.0,,,,440.0
+2021-11-23,Lateral Dumbbell Raise,Shoulders,10.0,12.0,,,,120.0
+2021-11-23,Lateral Dumbbell Raise,Shoulders,10.0,12.0,,,,120.0
+2021-11-23,Lateral Dumbbell Raise,Shoulders,10.0,10.0,,,,100.0
+2021-11-23,Lateral Dumbbell Raise,Shoulders,10.0,10.0,,,,100.0
+2021-11-23,Lateral Dumbbell Raise,Shoulders,10.0,10.0,,,,100.0
+2021-11-24,Barbell Squat,Legs,45.0,5.0,,,,225.0
+2021-11-24,Barbell Squat,Legs,75.0,5.0,,,,375.0
+2021-11-24,Barbell Squat,Legs,95.0,5.0,,,,475.0
+2021-11-24,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2021-11-24,Barbell Squat,Legs,105.0,5.0,,,,525.0
+2021-11-24,Barbell Squat,Legs,105.0,8.0,,,,840.0
+2021-11-24,Romanian Deadlift,Legs,45.0,10.0,,,,450.0
+2021-11-24,Romanian Deadlift,Legs,65.0,10.0,,,,650.0
+2021-11-24,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-11-24,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-11-24,Barbell Front Squat,Legs,45.0,10.0,,,,450.0
+2021-11-24,Barbell Front Squat,Legs,55.0,10.0,,,,550.0
+2021-11-24,Barbell Front Squat,Legs,55.0,10.0,,,,550.0
+2021-11-24,Lying Leg Curl,Legs,35.0,12.0,,,,420.0
+2021-11-24,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2021-11-24,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2021-11-25,Bent Over Barbell Row,Back,45.0,10.0,,,,450.0
+2021-11-25,Bent Over Barbell Row,Back,75.0,8.0,,,,600.0
+2021-11-25,Bent Over Barbell Row,Back,95.0,6.0,,,,570.0
+2021-11-25,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-11-25,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-11-25,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-11-25,Bent Over Barbell Row,Back,105.0,5.0,,,,525.0
+2021-11-25,Bent Over Barbell Row,Back,105.0,8.0,,,,840.0
+2021-11-25,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2021-11-25,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-11-25,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-11-25,Lat Pulldown (Pulley),Back,150.0,8.0,,,,1200.0
+2021-11-25,V-Grip Seated Cable Row (Pulley),Back,150.0,12.0,,,,1800.0
+2021-11-25,V-Grip Seated Cable Row (Pulley),Back,150.0,12.0,,,,1800.0
+2021-11-25,V-Grip Seated Cable Row (Pulley),Back,150.0,10.0,,,,1500.0
+2021-11-25,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-11-25,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-11-25,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-11-25,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-11-25,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-11-25,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-25,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-11-25,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-11-25,EZ-Bar Curl,Biceps,35.0,6.0,,,,210.0
+2021-11-25,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-11-25,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-11-25,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-11-25,Dumbbell Curl,Biceps,10.0,10.0,,,,100.0
+2021-11-26,Flat Barbell Bench Press,Chest,45.0,5.0,,,,225.0
+2021-11-26,Flat Barbell Bench Press,Chest,75.0,5.0,,,,375.0
+2021-11-26,Flat Barbell Bench Press,Chest,95.0,5.0,,,,475.0
+2021-11-26,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-11-26,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-11-26,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-11-26,Flat Barbell Bench Press,Chest,115.0,5.0,,,,575.0
+2021-11-26,Flat Barbell Bench Press,Chest,115.0,8.0,,,,920.0
+2021-11-26,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2021-11-26,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-11-26,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-11-26,Overhead Press,Shoulders,55.0,10.0,,,,550.0
+2021-11-26,Incline Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-11-26,Incline Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-11-26,Incline Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-11-26,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-11-26,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-11-26,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-11-26,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-11-26,Rope Push Down,Triceps,60.0,12.0,,,,720.0
+2021-11-26,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-11-26,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2021-11-26,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-11-26,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2021-11-26,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-11-26,Cable Overhead Triceps Extension,Triceps,50.0,12.0,,,,600.0
+2021-11-26,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-11-27,Barbell Squat,Legs,45.0,10.0,,,,450.0
+2021-11-27,Barbell Squat,Legs,65.0,10.0,,,,650.0
+2021-11-27,Barbell Squat,Legs,65.0,10.0,,,,650.0
+2021-11-27,Barbell Squat,Legs,65.0,10.0,,,,650.0
+2021-11-27,Barbell Squat,Legs,65.0,10.0,,,,650.0
+2021-11-27,Barbell Squat,Legs,65.0,10.0,,,,650.0
+2021-11-27,Romanian Deadlift,Legs,45.0,12.0,,,,540.0
+2021-11-27,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-11-27,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-11-27,Romanian Deadlift,Legs,75.0,10.0,,,,750.0
+2021-11-27,Goblet Squat,Legs,15.0,15.0,,,,225.0
+2021-11-27,Goblet Squat,Legs,15.0,15.0,,,,225.0
+2021-11-27,Goblet Squat,Legs,15.0,15.0,,,,225.0
+2021-11-27,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2021-11-27,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2021-11-27,Lying Leg Curl,Legs,45.0,12.0,,,,540.0
+2021-11-29,Deadlift,Back,135.0,5.0,,,,675.0
+2021-11-29,Deadlift,Back,155.0,5.0,,,,775.0
+2021-11-29,Deadlift,Back,175.0,5.0,,,,875.0
+2021-11-29,Deadlift,Back,195.0,5.0,,,,975.0
+2021-11-29,Deadlift,Back,215.0,5.0,,,,1075.0
+2021-11-29,Deadlift,Back,225.0,6.0,,,,1350.0
+2021-11-29,Lat Pulldown (Pulley),Back,120.0,12.0,,,,1440.0
+2021-11-29,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-11-29,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-11-29,Lat Pulldown (Pulley),Back,150.0,10.0,,,,1500.0
+2021-11-29,V-Grip Seated Cable Row (Pulley),Back,150.0,12.0,,,,1800.0
+2021-11-29,V-Grip Seated Cable Row (Pulley),Back,150.0,12.0,,,,1800.0
+2021-11-29,V-Grip Seated Cable Row (Pulley),Back,150.0,12.0,,,,1800.0
+2021-11-29,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-11-29,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-11-29,Face Pull (Pulley),Back,30.0,20.0,,,,600.0
+2021-11-29,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-11-29,Face Pull (Pulley),Back,30.0,15.0,,,,450.0
+2021-11-29,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-11-29,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-11-29,EZ-Bar Curl,Biceps,35.0,8.0,,,,280.0
+2021-11-29,EZ-Bar Curl,Biceps,35.0,10.0,,,,350.0
+2021-11-29,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-11-29,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-11-29,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-11-29,Dumbbell Curl,Biceps,10.0,12.0,,,,120.0
+2021-11-30,Overhead Press,Shoulders,45.0,10.0,,,,450.0
+2021-11-30,Overhead Press,Shoulders,60.0,8.0,,,,480.0
+2021-11-30,Overhead Press,Shoulders,75.0,6.0,,,,450.0
+2021-11-30,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-11-30,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-11-30,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-11-30,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-11-30,Overhead Press,Shoulders,85.0,5.0,,,,425.0
+2021-11-30,Flat Barbell Bench Press,Chest,45.0,12.0,,,,540.0
+2021-11-30,Flat Barbell Bench Press,Chest,65.0,12.0,,,,780.0
+2021-11-30,Flat Barbell Bench Press,Chest,85.0,12.0,,,,1020.0
+2021-11-30,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-11-30,Flat Barbell Bench Press,Chest,95.0,12.0,,,,1140.0
+2021-11-30,Flat Barbell Bench Press,Chest,95.0,9.0,,,,855.0
+2021-11-30,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2021-11-30,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2021-11-30,Incline Dumbbell Bench Press,Chest,25.0,10.0,,,,250.0
+2021-11-30,Rope Push Down,Triceps,65.0,12.0,,,,780.0
+2021-11-30,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-11-30,Rope Push Down,Triceps,65.0,12.0,,,,780.0
+2021-11-30,Lateral Dumbbell Raise,Shoulders,8.0,15.0,,,,120.0
+2021-11-30,Rope Push Down,Triceps,65.0,10.0,,,,650.0
+2021-11-30,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-11-30,Cable Overhead Triceps Extension,Triceps,55.0,10.0,,,,550.0
+2021-11-30,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-11-30,Cable Overhead Triceps Extension,Triceps,55.0,10.0,,,,550.0
+2021-11-30,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
+2021-11-30,Cable Overhead Triceps Extension,Triceps,55.0,10.0,,,,550.0
+2021-11-30,Lateral Dumbbell Raise,Shoulders,8.0,12.0,,,,96.0
