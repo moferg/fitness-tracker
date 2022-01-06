@@ -39,3 +39,24 @@ def execute_read_query(connection, query):
 # Create Connection to DB
 
 connection = create_connection("C:\\Users\\Marshall\\Documents\\projects\\fitness-tracker\\testing\\test_DB\\test_DB.sqlite")
+
+# Define schema for FitNotes table
+
+create_FitNotes_table = """
+CREATE TABLE IF NOT EXISTS FitNotes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    date TEXT NOT NULL,
+    exercise TEXT NOT NULL,
+    category TEXT,
+    weight REAL,
+    reps INTEGER,
+    distance REAL,
+    distance_unit TEXT,
+    time TEXT,
+    volume REAL
+);
+"""
+
+# Create FitNotes table in test_DB.sqlite
+
+execute_query(connection, create_FitNotes_table)
