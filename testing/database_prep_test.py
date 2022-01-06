@@ -5,6 +5,8 @@
 import sqlite3
 from sqlite3 import Error
 
+# Function Definitions
+
 def create_connection(path):
     connection = None
     try:
@@ -33,3 +35,7 @@ def execute_read_query(connection, query):
         return result
     except Error as e:
         print(f'The error {e} occurred')
+
+# Create Connection to DB
+
+connection = create_connection("C:\\Users\\Marshall\\Documents\\projects\\fitness-tracker\\testing\\test_DB\\test_DB.sqlite")
