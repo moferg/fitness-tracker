@@ -62,6 +62,23 @@ CREATE TABLE IF NOT EXISTS FitNotes (
 
 execute_query(connection, create_FitNotes_table)
 
+# Define schema for MyFitnessPal table
+
+create_MyFitnessPal_table = """
+CREATE TABLE IF NOT EXISTS MyFitnessPal (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    date TEXT NOT NULL,
+    calories REAL,
+    'fat (g)' REAL,
+    'carbohydrates (g)' REAL,
+    'protein (g)' REAL
+);
+"""
+
+# Create MyFitnessPal table in test_DB.sqlite
+
+execute_query(connection, create_MyFitnessPal_table)
+
 # Create DataFrames from test_CSV files
 
 df_fitnotes = pd.read_csv("testing\\test_CSVs\\FitNotes_Test_CSV.csv")
