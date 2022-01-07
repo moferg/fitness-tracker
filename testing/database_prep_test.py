@@ -79,6 +79,24 @@ CREATE TABLE IF NOT EXISTS MyFitnessPal (
 
 execute_query(connection, create_MyFitnessPal_table)
 
+# Define schema for RenPho table
+
+create_RenPho_table = """
+CREATE TABLE IF NOT EXISTS RenPho (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    date TEXT NOT NULL,
+    'weight(lb)' REAL,
+    bmi REAL,
+    'body fat(%)' REAL,
+    'bmr(kcal)' REAL,
+    'metabolic age' REAL
+);
+"""
+
+# Create RenPho table in test_DB.sqlite
+
+execute_query(connection, create_RenPho_table)
+
 # Create DataFrames from test_CSV files
 
 df_fitnotes = pd.read_csv("testing\\test_CSVs\\FitNotes_Test_CSV.csv")
