@@ -2,6 +2,7 @@
 
 # Imports
 
+import pandas as pd
 import sqlite3
 from sqlite3 import Error
 
@@ -48,15 +49,29 @@ CREATE TABLE IF NOT EXISTS FitNotes (
     date TEXT NOT NULL,
     exercise TEXT NOT NULL,
     category TEXT,
-    weight REAL,
+    'weight (lbs)' REAL,
     reps INTEGER,
     distance REAL,
-    distance_unit TEXT,
+    'distance unit' TEXT,
     time TEXT,
-    volume REAL
+    'volume (lbs)' REAL
 );
 """
 
 # Create FitNotes table in test_DB.sqlite
 
 execute_query(connection, create_FitNotes_table)
+
+# Create DataFrames from test_CSV files
+
+df_fitnotes = pd.read_csv("testing\\test_CSVs\\FitNotes_Test_CSV.csv")
+df_myfitnesspal = pd.read_csv("testing\\test_CSVs\\MyFitnessPal_Test_CSV.csv")
+df_renpho = pd.read_csv("testing\\test_CSVs\\RenPho_Test_CSV.csv")
+
+#print(df_fitnotes.head())
+#print(df_myfitnesspal.head())
+#print(df_renpho.head())
+
+# Convert DataFrames to SQL tables
+
+df_fitnotes.to_sql(name='FitNotes', con=connection, if_exists='append', index=False)
